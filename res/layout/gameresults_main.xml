@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author : Arunabh Das -->
+
+<RelativeLayout android:id="@+id/widget20"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+
+
+	<RelativeLayout android:id="@+id/widget21"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget20">
+
+
+
+		<TextView android:id="@+id/section_header_text"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#ffffff" android:textSize="24dip"
+			android:textStyle="normal" android:text="" android:layout_marginTop="37dip"
+			android:layout_centerHorizontal="true"></TextView>
+
+
+
+
+	</RelativeLayout>
+
+	<RelativeLayout android:id="@+id/widget22"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget21"></RelativeLayout>
+
+
+
+
+	<RelativeLayout android:id="@+id/widget24"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget22">
+		<!-- <LinearLayout android:id="@+id/LinearLayout01" android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" android:background="@drawable/schedule_date_matchup_time"> 
+			</LinearLayout> -->
+	</RelativeLayout>
+
+	<RelativeLayout android:id="@+id/widget25"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget24">
+
+
+		<!--<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" android:background="@drawable/schedule_date_matchup_time"> 
+			</LinearLayout> -->
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:orientation="horizontal"
+			android:background="#250000">
+
+			<TextView android:id="@+id/listpubdateheader"
+				android:textSize="16sp" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_weight="1"
+				android:textColor="#ffffff" android:text="Date" />
+			<TextView android:id="@+id/listtitleheader"
+				android:textSize="16sp" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_weight="1"
+				android:textColor="#ffffff" android:text="Matchup" />
+			<TextView android:id="@+id/listpubtimeheader"
+				android:textSize="16sp" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_weight="1"
+				android:textColor="#ffffff" android:text="Results" />
+		</LinearLayout>
+
+
+	</RelativeLayout>
+
+	<RelativeLayout android:id="@+id/widget30"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:orientation="vertical" android:layout_below="@id/widget25"
+		android:paddingBottom="100dp"
+		>
+
+		<ListView android:id="@android:id/list" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" />
+
+		<TextView android:id="@android:id/empty"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:text="@string/retrieving_text" android:gravity="center_vertical"
+			android:layout_marginLeft="15dip" android:textAppearance="?android:attr/textAppearanceLarge"
+			android:singleLine="false" android:paddingBottom="2dip" />
+
+	</RelativeLayout>
+
+	<include android:id="@+id/schedulefooter" layout="@layout/footer" />
+
+
+
+</RelativeLayout>
+

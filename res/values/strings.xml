@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, NHLHockey!</string>
+	<string name="app_name">NHL Hockey 2011</string>
+	<string name="app_description">NHL Hockey for Android</string>
+	<string name="app_version">Version 1.0.0</string>
+	<string name="app_copyright">Copyright 2011 Das All Rights Reserved</string>
+	<string name="app_learnmore">Please visit www.dasengines.com
+	</string>
+	<string name="click">Click</string>
+	<string name="ico_home_text">Home</string>
+	<string name="ico_news_text">News</string>
+	<string name="ico_schedule_text">Schedule</string>
+	<string name="ico_video_text">Video</string>
+	<string name="ico_more_text">More</string>
+	<string name="news_header_text">News</string>
+	<string name="retrieving_text">...retrieving...</string>
+	<string name="blank_text">
+	</string>
+	<string name="app">chromakeylabs@gmail.com</string>
+	<string name="spinner_date_prompt">Select Date</string>
+	<string name="spinner_teams_prompt">Select team</string>
+	<string name="youtube_loading">...Videos Loading...</string>
+	<string name="youtube_empty">...Videos not found...</string>
+
+
+	<string-array name="teams_array">
+		<item>All Teams</item>
+		<item>BOS</item>
+		<item>MON</item>
+		<item>BUF</item>
+		<item>TOR</item>
+		<item>OTT</item>
+		<item>PHI</item>
+		<item>PIT</item>
+		<item>NYR</item>
+		<item>NJ</item>
+		<item>NYI</item>	
+		<item>WAS</item>
+		<item>TB</item>
+		<item>CAR</item>
+		<item>ATL</item>
+		<item>FLA</item>
+		<item>DET</item>
+		<item>CHI</item>
+		<item>NSH</item>
+		<item>CLS</item>
+		<item>STL</item>
+		<item>SJ</item>
+		<item>PHO</item>
+		<item>LA</item>	
+		<item>ANH</item>	
+		<item>DAL</item>		
+		<item>VAN</item>
+		<item>CGY</item>
+		<item>MIN</item>
+		<item>COL</item>
+		<item>EDM</item>
+	</string-array>
+	
+	<string-array name="teams_array_full">
+		<item>All Teams</item>
+		<item>Boston Bruins</item>
+		<item>Montreal Canadiens</item>
+		<item>Buffalo Sabres</item>
+		<item>Toronto Maple Leafs</item>
+		<item>Ottawa Senators</item>
+		<item>Philadelphia Flyers</item>
+		<item>Pittsburgh Penguins</item>
+		<item>New York Rangers</item>
+		<item>New Jersey Devils</item>
+		<item>New York Islanders</item>		
+		<item>Washington Capitals</item>
+		<item>Tampa Bay Lightning</item>
+		<item>Carolina Hurricanes</item>
+		<item>Atlanta Thrashers</item>
+		<item>Florida Panthers</item>
+		<item>Detroit Red Wings</item>
+		<item>Nashville Predators</item>
+		<item>Chicago Blackhawks</item>
+		<item>Columbus Blue Jackets</item>
+		<item>St. Louis Blues</item>
+		<item>San Jose Sharks</item>	
+		<item>Phoenix Coyotes</item>
+		<item>Los Angeles Kings</item>	
+		<item>Anaheim Ducks</item>
+		<item>Dallas Stars</item>
+		<item>Vancouver Canucks</item>
+		<item>Calgary Flames</item>
+		<item>Minnesota Wild</item>
+		<item>Colorado Avalanche</item>
+		<item>Edmonton Oilers</item>
+	</string-array>
+
+	<string name="datawarningtext">Data charges may apply
+    </string>
+	<string name="offlinewarningtext">You are currently offline.
+    </string>
+</resources>

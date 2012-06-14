@@ -1,0 +1,508 @@
+{
+"Eastern" :
+{
+"Northeast" :
+[
+{
+"fullname": "Boston Bruins",
+"teamname":"Bruins",
+"abbr": "BOS",
+"city" :
+"Boston",
+"rank-conference": 2,
+"rank-division" :1,
+"played" :63,
+"won" : 37,
+"lost" : 19,
+"OT" : 7,
+"points" :81,
+"goalsfor" : 195,
+"goalsagainst": 148
+} ,
+{
+"fullname": "Montreal Canadiens",
+"teamname":"Canadiens",
+"abbr": "MON",
+"city" :
+"Montreal",
+"rank-conference": 6,
+"rank-division" :2,
+"played" :64,
+"won" : 34,
+"lost" : 23,
+"OT" : 7,
+"points" :75,
+"goalsfor" : 168,
+"goalsagainst": 165
+} ,
+{
+"fullname": "Buffalo Sabres",
+"teamname":"Sabres",
+"abbr": "BUF",
+"city" :
+"Buffalo",
+"rank-conference": 9,
+"rank-division" :3,
+"played" :62,
+"won" : 30,
+"lost" : 25,
+"OT" : 7,
+"points" :67,
+"goalsfor" : 179,
+"goalsagainst": 179
+} ,
+{
+"fullname": "Toronto Maple Leafs",
+"teamname":"Maple Leafs",
+"abbr": "TOR",
+"city" :
+"Toronto",
+"rank-conference": 10,
+"rank-division" :4,
+"played" :64,
+"won" : 28,
+"lost" : 27,
+"OT" : 9,
+"points" :65,
+"goalsfor" : 167,
+"goalsagainst": 195
+} ,
+{
+"fullname": "Ottawa Senators",
+"teamname":"Senators",
+"abbr": "OTT",
+"city" :
+"Ottawa",
+"rank-conference": 15,
+"rank-division" :5,
+"played" :63,
+"won" : 21,
+"lost" : 33,
+"OT" : 9,
+"points" :51,
+"goalsfor" : 143,
+"goalsagainst": 201
+}
+] ,
+"Atlantic" :
+[
+{
+"fullname": "Philadelphia Flyers",
+"teamname":"Flyers",
+"abbr": "PHI",
+"city" :
+"Philadelphia",
+"rank-conference": 1,
+"rank-division" :1,
+"played" :62,
+"won" : 40,
+"lost" : 16,
+"OT" : 6,
+"points" :86,
+"goalsfor" : 203,
+"goalsagainst": 159
+} ,
+{
+"fullname": "Pittsburgh Penguins",
+"teamname":"Penguins",
+"abbr": "PIT",
+"city" :
+"Pittsburgh",
+"rank-conference": 4,
+"rank-division" :2,
+"played" :65,
+"won" : 37,
+"lost" : 21,
+"OT" : 7,
+"points" :81,
+"goalsfor" : 189,
+"goalsagainst": 162
+} ,
+{
+"fullname": "New York Rangers",
+"teamname":"Rangers",
+"abbr": "NYR",
+"city" :
+"NYRangers",
+"rank-conference": 7,
+"rank-division" :3,
+"played" :65,
+"won" : 33,
+"lost" : 28,
+"OT" : 4,
+"points" :70,
+"goalsfor" : 181,
+"goalsagainst": 160
+} ,
+{
+"fullname": "New Jersey Devils",
+"teamname":"Devils",
+"abbr": "NJ",
+"city" :
+"New Jersey",
+"rank-conference": 12,
+"rank-division" :4,
+"played" :63,
+"won" : 28,
+"lost" : 31,
+"OT" : 4,
+"points" :60,
+"goalsfor" : 134,
+"goalsagainst": 165
+} ,
+{
+"fullname": "New York Islanders",
+"teamname":"Islanders",
+"abbr": "NYI",
+"city" :
+"NYIslanders",
+"rank-conference": 14,
+"rank-division" :5,
+"played" :65,
+"won" : 24,
+"lost" : 32,
+"OT" : 9,
+"points" :57,
+"goalsfor" : 177,
+"goalsagainst": 208
+}
+] ,
+"Southeast" :
+[
+{
+"fullname": "Tampa Bay Lightning",
+"teamname":"Lightning",
+"abbr": "TB",
+"city" :
+"Tampa Bay",
+"rank-conference": 3,
+"rank-division" :1,
+"played" :63,
+"won" : 37,
+"lost" : 19,
+"OT" : 7,
+"points" :81,
+"goalsfor" : 192,
+"goalsagainst": 192
+} ,
+{
+"fullname": "Washington Capitals",
+"teamname":"Capitals",
+"abbr": "WAS",
+"city" :
+"Washington",
+"rank-conference": 5,
+"rank-division" :2,
+"played" :64,
+"won" : 34,
+"lost" : 20,
+"OT" : 10,
+"points" :78,
+"goalsfor" : 170,
+"goalsagainst": 162
+} ,
+{
+"fullname": "Carolina Hurricanes",
+"teamname":"Hurricanes",
+"abbr": "CAR",
+"city" :
+"Carolina",
+"rank-conference": 8,
+"rank-division" :3,
+"played" :64,
+"won" : 30,
+"lost" : 25,
+"OT" : 9,
+"points" :69,
+"goalsfor" : 186,
+"goalsagainst": 194
+} ,
+{
+"fullname": "Atlanta Thrashers",
+"teamname":"Thrashers",
+"abbr": "ATL",
+"city" :
+"Atlanta",
+"rank-conference": 11,
+"rank-division" :4,
+"played" :64,
+"won" : 26,
+"lost" : 27,
+"OT" : 11,
+"points" :63,
+"goalsfor" : 179,
+"goalsagainst": 208
+} ,
+{
+"fullname": "Florida Panthers",
+"teamname":"Panthers",
+"abbr": "FLA",
+"city" :
+"Florida",
+"rank-conference": 13,
+"rank-division" :5,
+"played" :63,
+"won" : 26,
+"lost" : 30,
+"OT" : 7,
+"points" :59,
+"goalsfor" : 160,
+"goalsagainst": 173
+}
+]
+},
+"Western" :
+{
+"Central" :
+[
+{
+"fullname": "Detroit Red Wings",
+"teamname":"Red Wings",
+"abbr": "DET",
+"city" :
+"Detroit",
+"rank-conference": 2,
+"rank-division" :1,
+"played" :64,
+"won" : 39,
+"lost" : 18,
+"OT" : 7,
+"points" :85,
+"goalsfor" : 214,
+"goalsagainst": 185
+} ,
+{
+"fullname": "Chicago Blackhawks",
+"teamname":"Blackhawks",
+"abbr": "CHI",
+"city" :
+"Chicago",
+"rank-conference": 4,
+"rank-division" :2,
+"played" :64,
+"won" : 35,
+"lost" : 23,
+"OT" : 6,
+"points" :76,
+"goalsfor" : 208,
+"goalsagainst": 177
+} ,
+{
+"fullname": "Nashville Predators",
+"teamname":"Predators",
+"abbr": "NSH",
+"city" :
+"Nashville",
+"rank-conference": 10,
+"rank-division" :3,
+"played" :64,
+"won" : 32,
+"lost" : 23,
+"OT" : 9,
+"points" :73,
+"goalsfor" : 162,
+"goalsagainst": 153
+} ,
+{
+"fullname": "Columbus Blue Jackets",
+"teamname":"Blue Jackets",
+"abbr": "CLS",
+"city" :
+"Columbus",
+"rank-conference": 12,
+"rank-division" :4,
+"played" :62,
+"won" : 31,
+"lost" : 24,
+"OT" : 7,
+"points" :69,
+"goalsfor" : 171,
+"goalsagainst": 183
+} ,
+{
+"fullname": "St. Louis Blues",
+"teamname":"Blues",
+"abbr": "STL",
+"city" :
+"St. Louis",
+"rank-conference": 13,
+"rank-division" :5,
+"played" :63,
+"won" : 28,
+"lost" : 26,
+"OT" : 9,
+"points" :65,
+"goalsfor" : 173,
+"goalsagainst": 186
+}
+] ,
+"Pacific" :
+[
+{
+"fullname": "San Jose Sharks",
+"teamname":"Sharks",
+"abbr": "SJ",
+"city" :
+"San Jose",
+"rank-conference": 3,
+"rank-division" :1,
+"played" :64,
+"won" : 37,
+"lost" : 21,
+"OT" : 6,
+"points" :80,
+"goalsfor" : 180,
+"goalsagainst": 163
+} ,
+{
+"fullname": "Phoenix Coyotes",
+"teamname":"Coyotes",
+"abbr": "PHO",
+"city" :
+"Phoenix",
+"rank-conference": 5,
+"rank-division" :2,
+"played" :65,
+"won" : 33,
+"lost" : 22,
+"OT" : 10,
+"points" :76,
+"goalsfor" : 186,
+"goalsagainst": 189
+} ,
+{
+"fullname": "Dallas Stars",
+"teamname":"Stars",
+"abbr": "DAL",
+"city" :
+"Dallas",
+"rank-conference": 7,
+"rank-division" :3,
+"played" :63,
+"won" : 34,
+"lost" : 23,
+"OT" : 6,
+"points" :74,
+"goalsfor" : 174,
+"goalsagainst": 177
+} ,
+{
+"fullname": "Los Angeles Kings",
+"teamname":"Kings",
+"abbr": "LA",
+"city" :
+"Los Angeles",
+"rank-conference": 8,
+"rank-division" :4,
+"played" :63,
+"won" : 35,
+"lost" : 24,
+"OT" : 4,
+"points" :74,
+"goalsfor" : 178,
+"goalsagainst": 156
+} ,
+{
+"fullname": "Anaheim Ducks",
+"teamname":"Ducks",
+"abbr": "ANH",
+"city" :
+"Anaheim",
+"rank-conference": 9,
+"rank-division" :5,
+"played" :64,
+"won" : 34,
+"lost" : 25,
+"OT" : 5,
+"points" :73,
+"goalsfor" : 178,
+"goalsagainst": 187
+}
+] ,
+"Northwest" :
+[
+{
+"fullname": "Vancouver Canucks",
+"teamname":"Canucks",
+"abbr": "VAN",
+"city" :
+"Vancouver",
+"rank-conference": 1,
+"rank-division" :1,
+"played" :64,
+"won" : 40,
+"lost" : 15,
+"OT" : 9,
+"points" :89,
+"goalsfor" : 210,
+"goalsagainst": 151
+} ,
+{
+"fullname": "Calgary Flames",
+"teamname":"Flames",
+"abbr": "CGY",
+"city" :
+"Calgary",
+"rank-conference": 6,
+"rank-division" :2,
+"played" :66,
+"won" : 33,
+"lost" : 24,
+"OT" : 9,
+"points" :75,
+"goalsfor" : 200,
+"goalsagainst": 188
+} ,
+{
+"fullname": "Minnesota Wild",
+"teamname":"Wild",
+"abbr": "MIN",
+"city" :
+"Minnesota",
+"rank-conference": 11,
+"rank-division" :3,
+"played" :64,
+"won" : 33,
+"lost" : 25,
+"OT" : 6,
+"points" :72,
+"goalsfor" : 166,
+"goalsagainst": 170
+} ,
+{
+"fullname": "Colorado Avalanche",
+"teamname":"Avalanche",
+"abbr": "COL",
+"city" :
+"Colorado",
+"rank-conference": 14,
+"rank-division" :4,
+"played" :64,
+"won" : 26,
+"lost" : 30,
+"OT" : 8,
+"points" :60,
+"goalsfor" : 184,
+"goalsagainst": 219
+} ,
+{
+"fullname": "Edmonton Oilers",
+"teamname":"Oilers",
+"abbr": "EDM",
+"city" :
+"Edmonton",
+"rank-conference": 15,
+"rank-division" :5,
+"played" :64,
+"won" : 21,
+"lost" : 35,
+"OT" : 8,
+"points" :50,
+"goalsfor" : 160,
+"goalsagainst": 212
+}
+]
+}
+}
+
+

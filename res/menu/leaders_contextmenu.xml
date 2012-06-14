@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/goals" android:icon="@drawable/video_bought_arrow"
+		android:title="Goals" />
+	<item android:id="@+id/points" android:icon="@drawable/video_bought_arrow"
+		android:title="Points" />
+	<item android:id="@+id/goalsforagainst" android:icon="@drawable/video_bought_arrow"
+		android:title="Goals For Against" />
+	<item android:id="@+id/goaliewins" android:icon="@drawable/video_bought_arrow"
+		android:title="Goalie Wins" />
+	<item android:id="@+id/goalsagainstaverage" android:icon="@drawable/video_bought_arrow"
+		android:title="Goals Against Average" />
+	<item android:id="@+id/savepercentage" android:icon="@drawable/video_bought_arrow"
+		android:title="Save Percentage" />
+
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item  android:state_selected="true" 
+                        android:drawable="@drawable/scoreboard_highlight_watchon"/>
+        <item android:drawable="@drawable/scoreboard_bg_watch_now" />
+</selector>
+
+
+--><selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <!--<item  android:state_selected="true" 
+                        android:drawable="@drawable/scoreboard_highlight_watchon"/>
+        -->
+        <item  android:state_selected="true" 
+                        android:drawable="@drawable/scoreboard_highlight"/><!--
+        <item android:drawable="@drawable/scoreboard_bg_watch_now" />
+         --><item android:drawable="@drawable/scoreboard_bg" />
+</selector>

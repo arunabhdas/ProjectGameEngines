@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/widget32" android:layout_width="fill_parent"
+	android:layout_height="wrap_content" android:orientation="vertical"
+	android:layout_alignParentBottom="true"
+	android:layout_centerHorizontal="true">
+	
+
+	<LinearLayout android:id="@+id/widget32"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:orientation="horizontal" android:layout_alignParentBottom="true"
+		android:background="@drawable/nav_header_bg"
+		android:layout_centerHorizontal="true" android:layout_gravity="center_horizontal">
+
+		<Button android:id="@+id/home_button" android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:background="@drawable/ico_home_xml"
+			android:layout_marginLeft="6dip" android:layout_marginTop="15dip"
+			android:layout_marginRight="6dip" android:layout_marginBottom="15dip"
+
+			android:layout_weight="1" />
+
+
+		<Button android:id="@+id/news_button" android:layout_height="wrap_content"
+			android:background="@drawable/ico_news_xml" android:layout_width="wrap_content"
+			android:layout_marginLeft="6dip" android:layout_marginTop="15dip"
+			android:layout_marginRight="6dip" android:layout_marginBottom="15dip"
+
+			android:layout_weight="1" />
+
+
+		<Button android:id="@+id/schedule_button"
+			android:layout_height="wrap_content" android:background="@drawable/ico_schedule_xml"
+			android:layout_width="wrap_content" android:layout_marginLeft="6dip"
+			android:layout_marginTop="15dip" android:layout_marginRight="6dip"
+			android:layout_marginBottom="15dip" android:layout_weight="1" />
+
+		<Button android:id="@+id/video_button" android:layout_height="wrap_content"
+			android:background="@drawable/ico_video_xml" android:layout_width="wrap_content"
+			android:layout_marginLeft="6dip" android:layout_marginTop="15dip"
+			android:layout_marginRight="6dip" android:layout_marginBottom="15dip"
+
+			android:layout_weight="1" />
+
+		<Button android:id="@+id/more_button" android:layout_height="wrap_content"
+			android:background="@drawable/ico_more_xml" android:layout_width="wrap_content"
+			android:layout_marginLeft="6dip" android:layout_marginTop="15dip"
+			android:layout_marginRight="6dip" android:layout_marginBottom="15dip"
+			android:layout_weight="1" />
+
+	</LinearLayout>
+</LinearLayout>
+
+	

@@ -1,0 +1,1054 @@
+[
+{"away" : "NYI",
+"home" : "PHI",
+"start-date-time" : "20110224T19:00:00-0500",
+"period" : "OT",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :35,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 2
+,"overtimeScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 43,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 1
+,"overtimeScore" : 1
+}
+},
+{"away" : "DAL",
+"home" : "DET",
+"start-date-time" : "20110224T19:30:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 4,
+"score-attempts" :25,
+"period1score" : 2 ,
+"period2score" : 1 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 1,
+"score-attempts" : 39,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+}
+},
+{"away" : "TOR",
+"home" : "MON",
+"start-date-time" : "20110224T19:30:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 5,
+"score-attempts" :28,
+"period1score" : 3 ,
+"period2score" : 1 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 35,
+"period1score" : 1 ,
+"period2score" : 2 ,
+"period3score" : 1
+}
+},
+{"away" : "CHI",
+"home" : "NSH",
+"start-date-time" : "20110224T20:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :25,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 2
+},
+"home-boxscore" :
+{
+"score" : 0,
+"score-attempts" : 31,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 0
+}
+},
+{"away" : "STL",
+"home" : "VAN",
+"start-date-time" : "20110224T22:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :30,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 3,
+"score-attempts" : 27,
+"period1score" : 2 ,
+"period2score" : 0 ,
+"period3score" : 1
+}
+},
+{"away" : "MIN",
+"home" : "LA",
+"start-date-time" : "20110224T22:30:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :27,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 30,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 2
+}
+},
+{"away" : "NYR",
+"home" : "WAS",
+"start-date-time" : "20110225T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 6,
+"score-attempts" :28,
+"period1score" : 2 ,
+"period2score" : 2 ,
+"period3score" : 2
+},
+"home-boxscore" :
+{
+"score" : 0,
+"score-attempts" : 35,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 0
+}
+},
+{"away" : "PHO",
+"home" : "CLS",
+"start-date-time" : "20110225T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :28,
+"period1score" : 2 ,
+"period2score" : 0 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 5,
+"score-attempts" : 34,
+"period1score" : 2 ,
+"period2score" : 2 ,
+"period3score" : 1
+}
+},
+{"away" : "PIT",
+"home" : "CAR",
+"start-date-time" : "20110225T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :34,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 21,
+"period1score" : 2 ,
+"period2score" : 1 ,
+"period3score" : 1
+}
+},
+{"away" : "NJ",
+"home" : "TB",
+"start-date-time" : "20110225T19:30:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :20,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 30,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 0
+}
+},
+{"away" : "FLA",
+"home" : "ATL",
+"start-date-time" : "20110225T19:30:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :32,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+},
+"home-boxscore" :
+{
+"score" : 1,
+"score-attempts" : 46,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+}
+},
+{"away" : "OTT",
+"home" : "BUF",
+"start-date-time" : "20110225T19:30:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :31,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 39,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 2
+}
+},
+{"away" : "STL",
+"home" : "EDM",
+"start-date-time" : "20110225T21:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 5,
+"score-attempts" :22,
+"period1score" : 2 ,
+"period2score" : 1 ,
+"period3score" : 2
+},
+"home-boxscore" :
+{
+"score" : 0,
+"score-attempts" : 39,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 0
+}
+},
+{"away" : "SJ",
+"home" : "CGY",
+"start-date-time" : "20110225T21:00:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 4,
+"score-attempts" :33,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 1
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+},
+"home-boxscore" :
+{
+"score" : 3,
+"score-attempts" : 24,
+"period1score" : 1 ,
+"period2score" : 2 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+}
+},
+{"away" : "MIN",
+"home" : "ANH",
+"start-date-time" : "20110225T22:00:00-0500",
+"period" : "OT",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :31,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 1
+,"overtimeScore" : 1
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 48,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 1
+,"overtimeScore" : 0
+}
+},
+{"away" : "NSH",
+"home" : "DAL",
+"start-date-time" : "20110226T14:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :27,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 3,
+"score-attempts" : 25,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 2
+}
+},
+{"away" : "COL",
+"home" : "LA",
+"start-date-time" : "20110226T16:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :17,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 3
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 42,
+"period1score" : 1 ,
+"period2score" : 2 ,
+"period3score" : 1
+}
+},
+{"away" : "PIT",
+"home" : "TOR",
+"start-date-time" : "20110226T19:00:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 6,
+"score-attempts" :40,
+"period1score" : 1 ,
+"period2score" : 2 ,
+"period3score" : 2
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+},
+"home-boxscore" :
+{
+"score" : 5,
+"score-attempts" : 31,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 3
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+}
+},
+{"away" : "CAR",
+"home" : "MON",
+"start-date-time" : "20110226T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :31,
+"period1score" : 1 ,
+"period2score" : 2 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 27,
+"period1score" : 2 ,
+"period2score" : 1 ,
+"period3score" : 1
+}
+},
+{"away" : "WAS",
+"home" : "NYI",
+"start-date-time" : "20110226T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :22,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 2
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 31,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 0
+}
+},
+{"away" : "PHI",
+"home" : "OTT",
+"start-date-time" : "20110226T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :31,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 29,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 2
+}
+},
+{"away" : "DET",
+"home" : "BUF",
+"start-date-time" : "20110226T19:00:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :37,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 1
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 32,
+"period1score" : 2 ,
+"period2score" : 0 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+}
+},
+{"away" : "BOS",
+"home" : "VAN",
+"start-date-time" : "20110226T22:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :25,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 2
+},
+"home-boxscore" :
+{
+"score" : 1,
+"score-attempts" : 28,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 0
+}
+},
+{"away" : "TB",
+"home" : "NYR",
+"start-date-time" : "20110227T13:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :19,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 1,
+"score-attempts" : 23,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+}
+},
+{"away" : "CLS",
+"home" : "NSH",
+"start-date-time" : "20110227T15:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :27,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 3,
+"score-attempts" : 28,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 3
+}
+},
+{"away" : "TOR",
+"home" : "ATL",
+"start-date-time" : "20110227T17:00:00-0500",
+"period" : "OT",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :24,
+"period1score" : 2 ,
+"period2score" : 0 ,
+"period3score" : 0
+,"overtimeScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 3,
+"score-attempts" : 43,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 2
+,"overtimeScore" : 1
+}
+},
+{"away" : "NJ",
+"home" : "FLA",
+"start-date-time" : "20110227T17:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :26,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 1,
+"score-attempts" : 26,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+}
+},
+{"away" : "PHO",
+"home" : "CHI",
+"start-date-time" : "20110227T19:00:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :29,
+"period1score" : 0 ,
+"period2score" : 3 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 41,
+"period1score" : 2 ,
+"period2score" : 1 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+}
+},
+{"away" : "BOS",
+"home" : "EDM",
+"start-date-time" : "20110227T20:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :40,
+"period1score" : 2 ,
+"period2score" : 1 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 17,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 1
+}
+},
+{"away" : "COL",
+"home" : "ANH",
+"start-date-time" : "20110227T20:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :24,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 3,
+"score-attempts" : 32,
+"period1score" : 0 ,
+"period2score" : 2 ,
+"period3score" : 1
+}
+},
+{"away" : "STL",
+"home" : "CGY",
+"start-date-time" : "20110227T20:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 0,
+"score-attempts" :27,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 1,
+"score-attempts" : 20,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+}
+},
+{"away" : "CHI",
+"home" : "MIN",
+"start-date-time" : "20110228T20:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 4,
+"score-attempts" :34,
+"period1score" : 0 ,
+"period2score" : 3 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 26,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 2
+}
+},
+{"away" : "DET",
+"home" : "LA",
+"start-date-time" : "20110228T22:30:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 7,
+"score-attempts" :27,
+"period1score" : 3 ,
+"period2score" : 1 ,
+"period3score" : 3
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 39,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 3
+}
+},
+{"away" : "MON",
+"home" : "ATL",
+"start-date-time" : "20110301T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :23,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 1,
+"score-attempts" : 41,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+}
+},
+{"away" : "FLA",
+"home" : "CAR",
+"start-date-time" : "20110301T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :42,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 22,
+"period1score" : 2 ,
+"period2score" : 0 ,
+"period3score" : 0
+}
+},
+{"away" : "NYI",
+"home" : "WAS",
+"start-date-time" : "20110301T19:00:00-0500",
+"period" : "OT",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :29,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+,"overtimeScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 42,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+,"overtimeScore" : 1
+}
+},
+{"away" : "BUF",
+"home" : "NYR",
+"start-date-time" : "20110301T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :26,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 31,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 1
+}
+},
+{"away" : "BOS",
+"home" : "OTT",
+"start-date-time" : "20110301T19:30:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :21,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 0,
+"score-attempts" : 33,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 0
+}
+},
+{"away" : "CGY",
+"home" : "STL",
+"start-date-time" : "20110301T20:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 6,
+"score-attempts" :29,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 5
+},
+"home-boxscore" :
+{
+"score" : 0,
+"score-attempts" : 25,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 0
+}
+},
+{"away" : "DAL",
+"home" : "PHO",
+"start-date-time" : "20110301T21:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 3,
+"score-attempts" :30,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 2
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 27,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 2
+}
+},
+{"away" : "NSH",
+"home" : "EDM",
+"start-date-time" : "20110301T21:30:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :35,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 26,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+}
+},
+{"away" : "CLS",
+"home" : "VAN",
+"start-date-time" : "20110301T22:00:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :31,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 26,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 0
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+}
+},
+{"away" : "COL",
+"home" : "SJ",
+"start-date-time" : "20110301T22:30:00-0500",
+"period" : "SO",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :19,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+,"overtimeScore" : 0
+,"shootoutScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 35,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+,"overtimeScore" : 0
+,"shootoutScore" : 1
+}
+},
+{"away" : "PIT",
+"home" : "TOR",
+"start-date-time" : "20110302T19:00:00-0500",
+"period" : "OT",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 2,
+"score-attempts" :29,
+"period1score" : 1 ,
+"period2score" : 1 ,
+"period3score" : 0
+,"overtimeScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 3,
+"score-attempts" : 20,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 1
+,"overtimeScore" : 1
+}
+},
+{"away" : "TB",
+"home" : "NJ",
+"start-date-time" : "20110302T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :16,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 27,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 1
+}
+},
+{"away" : "MIN",
+"home" : "NYI",
+"start-date-time" : "20110302T19:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :34,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+},
+"home-boxscore" :
+{
+"score" : 4,
+"score-attempts" : 41,
+"period1score" : 2 ,
+"period2score" : 2 ,
+"period3score" : 0
+}
+},
+{"away" : "CGY",
+"home" : "CHI",
+"start-date-time" : "20110302T21:00:00-0500",
+"period" : "3",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 4,
+"score-attempts" :25,
+"period1score" : 1 ,
+"period2score" : 0 ,
+"period3score" : 3
+},
+"home-boxscore" :
+{
+"score" : 6,
+"score-attempts" : 30,
+"period1score" : 2 ,
+"period2score" : 2 ,
+"period3score" : 2
+}
+},
+{"away" : "DET",
+"home" : "ANH",
+"start-date-time" : "20110302T22:00:00-0500",
+"period" : "OT",
+"status" : "Final",
+"away-boxscore" :
+{ "score" : 1,
+"score-attempts" :29,
+"period1score" : 0 ,
+"period2score" : 1 ,
+"period3score" : 0
+,"overtimeScore" : 0
+},
+"home-boxscore" :
+{
+"score" : 2,
+"score-attempts" : 28,
+"period1score" : 0 ,
+"period2score" : 0 ,
+"period3score" : 1
+,"overtimeScore" : 1
+}
+}
+]

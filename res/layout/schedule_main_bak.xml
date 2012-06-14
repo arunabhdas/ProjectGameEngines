@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright CBC Radio-Canada 2010. All rights reserved. 
+
+Created by Arunabh Das on Oct 5, 2010 -->
+
+<RelativeLayout android:id="@+id/widget20"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@color/black">
+
+
+	<LinearLayout android:id="@+id/widget21"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget20">
+
+
+
+		<TextView android:id="@+id/widget22" 
+		android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_gravity="top|left"
+			android:textColor="#ffffff" android:textSize="24dip"
+			android:textStyle="bold" android:layout_marginTop="37dip"
+			android:text="Schedule" android:layout_marginLeft="120dip"></TextView>
+
+
+
+
+	</LinearLayout>
+	
+	<!--<LinearLayout android:id="@+id/widget33"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/calendar_blue_subheader_bg"
+		android:layout_below="@id/widget32">
+		<ImageButton android:id="@+id/ImageButton01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:background="@drawable/calendar_team_league_on_btn"
+			android:layout_marginTop="5dip"></ImageButton>
+		<ImageButton android:id="@+id/ImageButton02"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:background="@drawable/calendar_prev_on_btn"
+			android:layout_marginTop="5dip"></ImageButton>
+		<ImageButton android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/calendar_btn_on"
+			android:layout_marginTop="5dip" android:id="@+id/imageButtonCalendar"></ImageButton>
+		<ImageButton android:id="@+id/ImageButton04"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:background="@drawable/calendar_next_on_btn"
+			android:layout_marginTop="5dip"></ImageButton>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/widget34"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_below="@id/widget33">
+		<TextView android:id="@+id/TextView01" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="All Teams - Sun, Jun 13, 2010"
+			android:textSize="14px" android:textStyle="bold" android:textColor="#000000"></TextView>
+	</LinearLayout>
+
+
+	
+
+	
+	
+	
+	-->
+	
+	<LinearLayout
+	android:id="@+id/widget34" 
+	android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/widget22"
+		>
+		<ScrollView android:id="@+id/ScrollView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="fill_parent" android:orientation="vertical">
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="@drawable/schedule_date_matchup_time"></LinearLayout>
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="#ffffff">
+					<TextView android:id="@+id/TextView02"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="Sun, Jun 13" android:textSize="12px"
+						android:layout_marginTop="5dip" android:textColor="#000000"></TextView>
+					<TextView android:id="@+id/TextView03"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="CHI @ PHI" android:textSize="12px"
+						android:layout_marginTop="5dip" android:layout_marginLeft="16dip"
+						android:textColor="#000000"></TextView>
+					<TextView android:id="@+id/TextView04"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="8:00AM" android:textSize="12px"
+						android:layout_marginTop="5dip" android:layout_marginLeft="86dip"
+						android:textColor="#000000"></TextView>
+					
+				</LinearLayout>
+				<LinearLayout android:id="@+id/LinearLayout01"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:background="@drawable/schedule_date_matchup_results">
+				</LinearLayout>
+				<LinearLayout android:id="@+id/LinearLayout02"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:background="#ffffff">
+					<TextView android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text="Sun, Jun 13"
+						android:textSize="12px" android:layout_marginTop="5dip"
+						android:id="@+id/TextView05" android:textColor="#000000"></TextView>
+					<TextView android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text="CHI @ PHI"
+						android:textSize="12px" android:layout_marginTop="5dip"
+						android:layout_marginLeft="16dip" android:id="@+id/TextView06"
+						android:textColor="#000000"></TextView>
+					<TextView android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:textSize="12px"
+						android:layout_marginTop="5dip" android:layout_marginLeft="86dip"
+						android:text="4-3" android:id="@+id/TextView07" android:textColor="#000000"></TextView>
+					
+				</LinearLayout>
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="#ffffff">
+					<ImageView android:id="@+id/ImageView02"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:background="@drawable/footer_img"></ImageView>
+				</LinearLayout>
+			</LinearLayout>
+		</ScrollView>
+	</LinearLayout>
+	
+<include
+      layout="@layout/footer" />
+
+	
+
+</RelativeLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout android:id="@+id/widget20"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+
+
+	<RelativeLayout android:id="@+id/widget21"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget20">
+
+
+
+
+		<TextView android:id="@+id/section_header_text"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#ffffff" android:textSize="24dip"
+			android:textStyle="normal" android:text="" android:layout_marginTop="37dip"
+			android:layout_centerHorizontal="true"></TextView>
+
+
+
+
+	</RelativeLayout>
+
+	<RelativeLayout android:id="@+id/widget22"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget21">
+
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:orientation="horizontal"
+			android:background="#250000"
+			android:weightSum="4"
+			android:paddingLeft="5dp"
+			>
+			
+			<TextView android:id="@+id/listtitleheader"
+				android:textSize="16sp" android:layout_width="0dp"
+				android:layout_height="wrap_content" 
+				android:textColor="#ffffff" android:text="Team" 
+				android:layout_weight="1"
+				/>
+
+			<TextView android:id="@+id/listpubdateheader"
+				android:textSize="16sp" android:layout_width="0dp"
+				android:layout_height="wrap_content" 
+				android:textColor="#ffffff" android:text="Name" 
+				android:layout_weight="2"
+				
+				/>
+			
+			<TextView android:id="@+id/listpubtimeheader"
+				android:textSize="16sp" android:layout_width="0dp"
+				android:layout_height="wrap_content" 
+				android:textColor="#ffffff" android:text="Position" 
+				android:layout_weight="1"
+				/>
+		</LinearLayout>
+
+	</RelativeLayout>
+	<RelativeLayout android:id="@+id/widget23"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget22"
+		android:paddingBottom="100dp"
+		>
+		<LinearLayout android:id="@+id/widget42"
+			android:orientation="horizontal" android:layout_width="fill_parent"
+			android:layout_height="fill_parent" android:layout_below="@id/widget21">
+			<ListView android:id="@+id/android:list"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:scaleType="fitEnd" />
+		</LinearLayout>
+
+	</RelativeLayout>
+
+	<include android:id="@+id/videofooter" layout="@layout/footer" />
+
+
+</RelativeLayout>
+

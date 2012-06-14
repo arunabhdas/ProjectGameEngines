@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author : Arunabh Das -->
+<RelativeLayout android:id="@+id/widget40"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	
+	>
+
+
+
+	<LinearLayout android:id="@+id/widget41"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget40"
+		
+		>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_gravity="top|left"
+			android:textColor="#ffffff" android:text="Segments" android:textSize="24dp"
+			android:textStyle="bold" android:layout_marginTop="37dip"
+			android:layout_marginLeft="120dip"></TextView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/widget42"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		
+		android:layout_below="@id/widget41">
+	<ListView android:id="@+id/android:list"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:scaleType="fitEnd" />
+	</LinearLayout>
+	<!--<LinearLayout android:id="@+id/widget42"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:background="@drawable/video_bg_88px" android:layout_height="60dp"
+		android:layout_below="@id/widget41">
+		
+
+		<Button android:id="@+id/stats_button"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:background="@drawable/ico_stats" android:layout_marginTop="8px"></Button>
+		<TextView android:layout_height="wrap_content"
+			android:layout_marginTop="8px" android:id="@+id/TextView01"
+			android:text="Stats" android:textSize="18px" android:textColor="#000000"
+			android:layout_marginLeft="8px" android:layout_width="240px"></TextView>
+		<ImageView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/video_bought_arrow"
+			android:id="@+id/ImageView02" android:layout_marginTop="8px"></ImageView>
+	</LinearLayout>
+	
+	<LinearLayout android:id="@+id/widget43"
+		android:orientation="horizontal" android:layout_width="wrap_content"
+		android:background="@drawable/video_bg_88px" android:layout_height="60dp"
+		android:layout_below="@id/widget42">
+		<ImageView android:id="@+id/ImageView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_marginTop="8px" android:background="@drawable/ico_blogs"></ImageView>
+		<TextView android:layout_height="wrap_content"
+			android:layout_marginTop="8px" android:id="@+id/TextView01"
+			android:textSize="18px" android:textColor="#000000"
+			android:layout_marginLeft="8px" android:layout_width="240px"
+			android:text="Blogs"></TextView>
+		<ImageView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/video_bought_arrow"
+			android:id="@+id/ImageView02" android:layout_marginTop="8px"></ImageView>
+	</LinearLayout>
+
+	<LinearLayout android:id="@+id/widget44"
+		android:orientation="horizontal" android:layout_width="wrap_content"
+		android:background="@drawable/video_bg_88px" android:layout_height="60dp"
+		android:layout_below="@id/widget43">
+		<ImageView android:id="@+id/ImageView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_marginTop="8px" android:background="@drawable/ico_info"></ImageView>
+		<TextView android:layout_height="wrap_content"
+			android:layout_marginTop="8px" android:id="@+id/TextView01"
+			android:textSize="18px" android:textColor="#000000"
+			android:layout_marginLeft="8px" android:layout_width="240px"
+			android:text="About"></TextView>
+		<ImageView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/video_bought_arrow"
+			android:id="@+id/ImageView02" android:layout_marginTop="8px"></ImageView>
+	</LinearLayout>
+
+	<LinearLayout android:id="@+id/widget45"
+		android:orientation="horizontal" android:layout_width="wrap_content"
+		android:layout_height="40px" android:background="@drawable/video_bg_88px"
+		android:layout_below="@id/widget44">
+		<ImageView android:id="@+id/ImageView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_marginTop="8px" android:background="@drawable/ico_contact"></ImageView>
+		<TextView android:layout_height="wrap_content"
+			android:layout_marginTop="8px" android:id="@+id/TextView01"
+			android:textSize="18px" android:textColor="#000000"
+			android:layout_marginLeft="8px" android:layout_width="240px"
+			android:text="Contact Us"></TextView>
+		<ImageView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/video_bought_arrow"
+			android:id="@+id/ImageView02" android:layout_marginTop="8px"></ImageView>
+	</LinearLayout>
+
+	-->
+	<include android:id="@+id/segmentsfooter" layout="@layout/footer" />
+
+
+</RelativeLayout>
+

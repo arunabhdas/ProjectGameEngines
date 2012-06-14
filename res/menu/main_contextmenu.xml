@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<item android:id="@+id/home" android:icon="@drawable/ico_home"
+		android:title="Home" />
+	<item android:id="@+id/news" android:icon="@drawable/ico_news"
+		android:title="News" />
+	<item android:id="@+id/schedule" android:icon="@drawable/ico_schedule"
+		android:title="Schedule" />
+	<item android:id="@+id/video" android:icon="@drawable/ico_video"
+		android:title="Video" />
+	<item android:id="@+id/about" android:icon="@drawable/ico_info"
+		android:title="About" />
+	<item android:id="@+id/stats" android:icon="@drawable/ico_stats"
+		android:title="Stats" />
+			<item android:id="@+id/blogs" android:icon="@drawable/ico_blogs"
+		android:title="Blogs" />
+	<item android:id="@+id/contact" android:icon="@drawable/ico_contact"
+		android:title="Contact" />
+		
+		<item android:id="@+id/contact" android:icon="@drawable/ico_contact"
+		android:title="Contact" />
+	
+	<item android:id="@+id/exit" android:icon="@drawable/ico_contact"
+		android:title="Exit" />
+
+</menu>

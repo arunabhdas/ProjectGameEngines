@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author : Arunabh Das -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:orientation="vertical" android:background="#ffffff">
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:background="@drawable/header">
+		<Button android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/left_btn"
+			android:layout_marginTop="30px" android:text="Back" android:id="@+id/homeBtBack"></Button>
+		<TextView android:id="@+id/TextView01" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="PlayerName"
+			android:textColor="#ffffff" android:textStyle="bold"
+			android:textSize="22px" android:layout_marginLeft="55px"
+			android:layout_marginTop="35px"></TextView>
+	</LinearLayout>
+
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:background="#000000">
+		<Button android:layout_height="wrap_content"
+			android:background="@drawable/r_bg_btn" android:text="Latest"
+			android:layout_width="80px" android:id="@+id/homeBtLatest"></Button>
+		<Button android:layout_height="wrap_content"
+			android:background="@drawable/r_bg_btn" android:layout_width="80px"
+			android:text="Roster" android:id="@+id/homeBtRoster"></Button>
+		<Button android:layout_height="wrap_content"
+			android:layout_width="80px" android:text="Offence"
+			android:background="@drawable/r_bg_btn" android:id="@+id/homeBtOffence"></Button>
+		<Button android:layout_height="wrap_content"
+			android:background="@drawable/r_bg_btn" android:layout_width="80px"
+			android:text="Defence" android:id="@+id/homeBtDefence"></Button>
+	</LinearLayout>
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<ImageView android:id="@+id/ImageView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:background="@drawable/chi"></ImageView>
+		<LinearLayout android:id="@+id/LinearLayout01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:orientation="vertical">
+			<TextView android:id="@+id/TextView02" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:textColor="#000000"
+				android:textSize="16px" android:textStyle="bold" android:text="Philadelphia Flyers"></TextView>
+			<TextView android:id="@+id/TextView03" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="Next game:"
+				android:textColor="#000000" android:textSize="12px"
+				android:textStyle="bold" android:layout_marginTop="2px"></TextView>
+			<TextView android:id="@+id/TextView04" android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Eastern Conference No 7 Seed 41-35-6, Atlantic Rank 3"
+				android:textColor="#000000" android:textSize="11px"
+				android:layout_marginTop="2px"></TextView>
+		</LinearLayout>
+	</LinearLayout>
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:orientation="vertical">
+		<ScrollView android:id="@+id/ScrollView01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+			<LinearLayout android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:orientation="vertical">
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="@drawable/team_injuries_hdr"></LinearLayout>
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="@drawable/team_injuries_subhdr"></LinearLayout>
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content">
+					<ListView android:id="@+id/ListView03"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:background="@drawable/team_injuries_table_blue_bg"></ListView>
+				</LinearLayout>
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="@drawable/team_last10_hdr">
+				</LinearLayout>
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="@drawable/team_last10_subhdr"></LinearLayout>
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content">
+					<ListView android:id="@+id/ListView02"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:background="@drawable/team_last10_table_blue_bg"></ListView>
+				</LinearLayout>
+
+				<LinearLayout android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:background="@drawable/footer_img"></LinearLayout>
+			</LinearLayout>
+		</ScrollView>
+	</LinearLayout>
+
+</LinearLayout>

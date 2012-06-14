@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		Author : Arunabh Das
+	-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:isScrollContainer="true"
+	android:layout_height="wrap_content" android:layout_width="wrap_content">
+	<LinearLayout android:id="@+id/widget29"
+
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:orientation="vertical" android:layout_alignParentTop="true"
+		android:background="@drawable/header" android:layout_centerHorizontal="true"
+		android:gravity="center_horizontal">
+
+		<Button android:gravity="center_horizontal"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:background="@drawable/logo" />
+
+	</LinearLayout>
+
+	<ScrollView android:id="@+id/widget31" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:layout_centerVertical="true"
+		android:layout_weight="1">
+		<LinearLayout android:layout_height="wrap_content"
+			android:layout_width="fill_parent" android:orientation="vertical">
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:orientation="horizontal"
+				android:layout_gravity="bottom|center" android:background="#877665">
+				<ImageView android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:background="@drawable/promo"
+					android:id="@+id/promImage"></ImageView>
+			</LinearLayout>
+
+			<LinearLayout android:layout_height="wrap_content"
+				android:layout_width="fill_parent">
+				<Gallery android:id="@+id/galleryTopGames"
+					android:columnWidth="100px" android:layout_height="wrap_content"
+					android:layout_width="fill_parent" android:focusable="true"
+					android:layout_gravity="clip_vertical|clip_horizontal"
+					android:fadingEdge="none" android:spacing="1px"></Gallery>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:orientation="horizontal"
+				android:layout_gravity="bottom|center" android:background="@drawable/homepage_segcontrol">
+			</LinearLayout>
+			<FrameLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_gravity="bottom|center"
+				android:background="@drawable/results_table_bg"
+				android:isScrollContainer="true">
+
+
+
+				<ImageView android:id="@+id/logoTeam1"
+					android:layout_gravity="top|left" android:layout_marginLeft="10dip"
+					android:layout_width="60dip" android:background="@drawable/ana"
+					android:layout_height="45dip" android:layout_marginTop="8dip"></ImageView>
+
+
+
+				<ImageView android:id="@+id/logoTeam2"
+					android:layout_gravity="top|right" android:background="@drawable/chi"
+					android:layout_width="60dip" android:layout_marginTop="8dip"
+					android:layout_height="45dip" android:layout_marginRight="10dip"></ImageView>
+
+
+				<TextView android:layout_gravity="top|left"
+					android:layout_height="40dip" android:layout_width="60dip"
+					 android:textColor="#ffffff"
+					android:layout_marginTop="15dip" android:textSize="32px"
+					android:layout_marginLeft="130dip" android:id="@+id/textFinal"
+					
+					android:text="FINAL"></TextView>
+					
+					
+				<TextView android:id="@+id/textTeam1Score" 
+					android:textColor="#daa520" android:textStyle="bold"
+					android:layout_gravity="top|left" android:layout_marginLeft="100dip"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:textSize="46px" android:layout_marginTop="10dip"
+					android:text="4"></TextView>
+					
+				<TextView android:id="@+id/textTeam2Score"
+					android:textColor="#daa520" android:textStyle="bold"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textSize="46px"
+					android:layout_marginTop="10dip" android:layout_marginLeft="200dip"
+					android:text="6"></TextView>
+					
+				<TextView android:id="@+id/textTeam1SOG"
+					android:layout_gravity="top|left" android:layout_marginLeft="100dip"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:textColor="#ffffff" android:textSize="10px" 
+					android:layout_marginTop="5dip" android:textStyle="bold"
+					android:text="41 SOG"></TextView>
+					
+				<TextView android:id="@+id/textTeam2SOG"
+					android:textStyle="bold" android:layout_gravity="top|left"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:layout_marginTop="5dip" 
+					android:textColor="#ffffff" android:textSize="10px"
+					android:layout_marginLeft="195dip"
+					android:text="24 SOG"></TextView>
+					
+				<TextView android:id="@+id/textTeamNotifi"
+					android:textStyle="bold" android:layout_gravity="top|left"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:textColor="#ffffff" 
+					android:textSize="12px" android:layout_marginTop="57dip"
+					android:layout_marginLeft="120dip"
+					android:text="Blackhawks Win Seres 4-2"
+					></TextView>
+				<TextView android:id="@+id/textTeam11"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ffffff"
+					android:textStyle="bold" android:layout_marginTop="102dip"
+					android:text="1" android:textSize="12px" android:layout_marginLeft="153dip">
+					</TextView>
+					
+				<TextView android:id="@+id/textTeam21" android:textStyle="bold"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ffffff"
+					android:layout_marginTop="125dip" android:textSize="12px"
+					android:text="0" android:layout_marginLeft="153dip"></TextView>
+					
+				<TextView android:id="@+id/textTeam12"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ffffff"
+					android:textSize="12px" android:layout_marginTop="102dip"
+					android:textStyle="bold" android:text="2"
+					android:layout_marginLeft="184dip">
+					
+					</TextView>
+				<TextView android:id="@+id/textTeam22" android:textStyle="bold"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_marginTop="125dip"
+					android:textColor="#ffffff" android:textSize="12px" android:text="1"
+					android:layout_marginLeft="184dip"></TextView>
+					
+				<TextView android:id="@+id/textTeam13"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ffffff"
+					android:textSize="12px" android:layout_marginTop="102dip"
+					android:textStyle="bold" android:text="0"
+					android:layout_marginLeft="215dip"></TextView>
+				<TextView android:id="@+id/textTeam23" android:textStyle="bold"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_marginTop="125dip"
+					android:textColor="#ffffff" android:textSize="12px" android:text="2"
+					android:layout_marginLeft="215dip"></TextView>
+				<TextView android:id="@+id/textTeam1OT"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ffffff"
+					android:textSize="12px" android:layout_marginTop="102dip"
+					android:textStyle="bold" android:text="0"
+					android:layout_marginLeft="247dip"></TextView>
+				<TextView android:id="@+id/textTeam2OT"
+					android:textStyle="bold" android:layout_gravity="top|left"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:layout_marginTop="125dip" android:textColor="#ffffff"
+					android:textSize="12px" android:text="3" android:layout_marginLeft="247dip"></TextView>
+				<TextView android:id="@+id/textTeam1T"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ffffff"
+					android:textSize="12px" android:layout_marginTop="102dip"
+					android:textStyle="bold" android:text="0"
+					android:layout_marginLeft="277dip"></TextView>
+				<TextView android:id="@+id/textTeam2T" android:textStyle="bold"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_marginTop="125dip"
+					android:textColor="#ffffff" android:textSize="12px" android:text="0"
+					android:layout_marginLeft="277dip"></TextView>
+				<TextView android:id="@+id/textTeam1Name"
+					android:layout_gravity="top|left" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ffffff"
+					android:textSize="12px" android:layout_marginTop="102dip"
+					android:textStyle="bold" android:layout_marginLeft="10dip"
+					android:text="CHICAGO"></TextView>
+				<TextView android:id="@+id/textTeam2Name"
+					android:textStyle="bold" android:layout_gravity="top|left"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:layout_marginTop="125dip" android:textColor="#ffffff"
+					android:textSize="12px" android:layout_marginLeft="10dip"
+					android:text="PHILAPDELPHIA"></TextView>
+			</FrameLayout>
+			<LinearLayout android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:orientation="vertical">
+				<LinearLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:background="@drawable/blue_gradient_bg">
+					<TextView android:id="@+id/textGameResult"
+						android:textStyle="bold" android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:textColor="#ffffff"
+						android:textSize="12px" android:text="Game Result"></TextView>
+
+
+				</LinearLayout>
+				<LinearLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:orientation="vertical">
+					<LinearLayout android:id="@+id/LinearLayoutP1list"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:background="@drawable/blue_subheader_bg">
+						<TextView android:id="@+id/TextViewP1"
+							android:layout_width="wrap_content" android:layout_height="wrap_content"
+							android:text="1st Period" android:textColor="#ffffff"
+							android:textSize="12px" android:textStyle="bold"></TextView>
+
+
+					</LinearLayout>
+					<ListView android:id="@+id/ListViewP1"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></ListView>
+				</LinearLayout>
+				<LinearLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:orientation="vertical">
+					<LinearLayout android:id="@+id/LinearLayoutp2list"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:background="@drawable/blue_subheader_bg">
+						<TextView android:id="@+id/TextViewP2"
+							android:layout_width="wrap_content" android:layout_height="wrap_content"
+							android:textColor="#ffffff" android:textSize="12px"
+							android:textStyle="bold" android:text="2nd Period"></TextView>
+					</LinearLayout>
+					<ListView android:id="@+id/ListViewP2"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></ListView>
+				</LinearLayout>
+				<LinearLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:orientation="vertical">
+					<LinearLayout android:id="@+id/LinearLayoutP3list"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:background="@drawable/blue_subheader_bg">
+						<TextView android:id="@+id/TextViewP3"
+							android:layout_width="wrap_content" android:layout_height="wrap_content"
+							android:textColor="#ffffff" android:textSize="12px"
+							android:textStyle="bold" android:text="Overtime 1"></TextView>
+					</LinearLayout>
+					<ListView android:id="@+id/ListViewP3"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></ListView>
+				</LinearLayout>
+				<LinearLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:orientation="vertical">
+					<LinearLayout android:id="@+id/LinearLayoutO1list"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:background="@drawable/blue_subheader_bg">
+						<TextView android:id="@+id/TextViewO1"
+							android:layout_width="wrap_content" android:layout_height="wrap_content"
+							android:textColor="#ffffff" android:textSize="12px"
+							android:textStyle="bold" android:text="3rd Period"></TextView>
+					</LinearLayout>
+					<ListView android:id="@+id/ListViewO1"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></ListView>
+				</LinearLayout>
+				<LinearLayout android:id="@+id/widget30"
+					android:layout_width="fill_parent" android:layout_height="wrap_content"
+					android:orientation="vertical"
+				
+					>
+
+					<ListView android:id="@android:id/list"
+						android:layout_width="fill_parent" android:layout_height="wrap_content" />
+
+					<TextView android:id="@android:id/empty"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:text="@string/retrieving_text" 
+						android:gravity="center_vertical"
+						android:layout_marginLeft="15dip" android:textAppearance="?android:attr/textAppearanceLarge"
+						android:singleLine="false" android:paddingBottom="2dip" />
+
+				</LinearLayout>
+
+
+
+
+			</LinearLayout>
+
+
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:background="@drawable/blue_subheader_bg">
+				<ImageView android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:background="@drawable/footer_img"></ImageView>
+			</LinearLayout>
+		</LinearLayout>
+
+	</ScrollView>
+
+
+
+
+	<include android:id="@+id/mainfooter" layout="@layout/footer" />
+
+
+	<!--
+		<LinearLayout android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:background="@drawable/nav_header_bg"> nav images go here
+		<ImageView android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:src="@drawable/homelogo3dglowsmall"
+		android:layout_gravity="center"></ImageView> </LinearLayout>
+	-->
+</LinearLayout>

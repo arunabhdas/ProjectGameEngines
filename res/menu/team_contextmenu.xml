@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/latest" android:icon="@drawable/video_bought_arrow"
+		android:title="Latest" />
+	<item android:id="@+id/teaminjuries" android:icon="@drawable/video_bought_arrow"
+		android:title="Team Injuries" />
+	<item android:id="@+id/roster" android:icon="@drawable/video_bought_arrow"
+		android:title="Roster" />
+	<item android:id="@+id/offence" android:icon="@drawable/video_bought_arrow"
+		android:title="Offence" />
+	<item android:id="@+id/defence" android:icon="@drawable/video_bought_arrow"
+		android:title="Defence" />
+
+</menu>

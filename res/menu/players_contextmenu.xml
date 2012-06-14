@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/allplayers" android:icon="@drawable/video_bought_arrow"
+		android:title="All Players" />
+	<item android:id="@+id/forwards" android:icon="@drawable/video_bought_arrow"
+		android:title="Forwards" />
+	<item android:id="@+id/defence" android:icon="@drawable/video_bought_arrow"
+		android:title="Defence" />
+	<item android:id="@+id/goal" android:icon="@drawable/video_bought_arrow"
+		android:title="Goal" />
+
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sunlight_api_key">f902a48d6bec4b18b0c12086189f990b</string>
+    <string name="yahoo_news_key">K1v67ePV34Ff1PQZjtz2SphuAkbXMHD9BwV6Kh5h9sWoc2bWPQOQS.So3MBMSdZV5ouZ</string>
+    <string name="drumbone_user_agent">Drumbone</string>
+    <string name="contact_subject">Feedback regarding Techscape</string>
+    <string name="contact_email">troubadorian@gmail.com</string>
+</resources>

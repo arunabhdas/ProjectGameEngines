@@ -1,0 +1,18 @@
+
+	
+	{ "promos" : [
+			
+		{
+			"imageUrl" : "http://cbc.ca/m/config/hnic/promos/WM7_BeingErica_480x105.JPG",
+			"imageWidth" : "480",
+			"imageHeight" : "105",
+			"adUrl" : "http://cbc.ca/m/config/hnic/promos/promo-wm1.html",
+			"clickUrl" : "",
+			"show" : "",
+			"sponsor" : ""
+		}
+	
+		]
+	}
+	
+  

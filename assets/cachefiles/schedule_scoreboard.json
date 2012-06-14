@@ -1,0 +1,695 @@
+[
+{
+"away" : "NSH",
+"home" : "DAL",
+"start-date-time" : "20110226T14:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "COL",
+"home" : "LA",
+"start-date-time" : "20110226T16:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PHI",
+"home" : "OTT",
+"start-date-time" : "20110226T19:00:00-0500",
+"available-on-cbc" : "yes",
+"season" : "Regular Season"
+} ,
+{
+"away" : "WAS",
+"home" : "NYI",
+"start-date-time" : "20110226T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PIT",
+"home" : "TOR",
+"start-date-time" : "20110226T19:00:00-0500",
+"available-on-cbc" : "yes",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CAR",
+"home" : "MON",
+"start-date-time" : "20110226T19:00:00-0500",
+"available-on-cbc" : "yes",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DET",
+"home" : "BUF",
+"start-date-time" : "20110226T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BOS",
+"home" : "VAN",
+"start-date-time" : "20110226T22:00:00-0500",
+"available-on-cbc" : "yes",
+"season" : "Regular Season"
+} ,
+{
+"away" : "TB",
+"home" : "NYR",
+"start-date-time" : "20110227T13:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CLS",
+"home" : "NSH",
+"start-date-time" : "20110227T15:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "TOR",
+"home" : "ATL",
+"start-date-time" : "20110227T17:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NJ",
+"home" : "FLA",
+"start-date-time" : "20110227T17:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PHO",
+"home" : "CHI",
+"start-date-time" : "20110227T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "STL",
+"home" : "CGY",
+"start-date-time" : "20110227T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BOS",
+"home" : "EDM",
+"start-date-time" : "20110227T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "COL",
+"home" : "ANH",
+"start-date-time" : "20110227T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CHI",
+"home" : "MIN",
+"start-date-time" : "20110228T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DET",
+"home" : "LA",
+"start-date-time" : "20110228T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "FLA",
+"home" : "CAR",
+"start-date-time" : "20110301T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MON",
+"home" : "ATL",
+"start-date-time" : "20110301T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NYI",
+"home" : "WAS",
+"start-date-time" : "20110301T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BUF",
+"home" : "NYR",
+"start-date-time" : "20110301T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BOS",
+"home" : "OTT",
+"start-date-time" : "20110301T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CGY",
+"home" : "STL",
+"start-date-time" : "20110301T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DAL",
+"home" : "PHO",
+"start-date-time" : "20110301T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NSH",
+"home" : "EDM",
+"start-date-time" : "20110301T21:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CLS",
+"home" : "VAN",
+"start-date-time" : "20110301T22:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "COL",
+"home" : "SJ",
+"start-date-time" : "20110301T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PIT",
+"home" : "TOR",
+"start-date-time" : "20110302T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "TB",
+"home" : "NJ",
+"start-date-time" : "20110302T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MIN",
+"home" : "NYI",
+"start-date-time" : "20110302T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CGY",
+"home" : "CHI",
+"start-date-time" : "20110302T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DET",
+"home" : "ANH",
+"start-date-time" : "20110302T22:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BUF",
+"home" : "CAR",
+"start-date-time" : "20110303T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "TOR",
+"home" : "PHI",
+"start-date-time" : "20110303T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MIN",
+"home" : "NYR",
+"start-date-time" : "20110303T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "STL",
+"home" : "WAS",
+"start-date-time" : "20110303T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "TB",
+"home" : "BOS",
+"start-date-time" : "20110303T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "OTT",
+"home" : "ATL",
+"start-date-time" : "20110303T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MON",
+"home" : "FLA",
+"start-date-time" : "20110303T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CLS",
+"home" : "EDM",
+"start-date-time" : "20110303T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NSH",
+"home" : "VAN",
+"start-date-time" : "20110303T22:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PHO",
+"home" : "LA",
+"start-date-time" : "20110303T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DET",
+"home" : "SJ",
+"start-date-time" : "20110303T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PIT",
+"home" : "NJ",
+"start-date-time" : "20110304T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NYR",
+"home" : "OTT",
+"start-date-time" : "20110304T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CAR",
+"home" : "CHI",
+"start-date-time" : "20110304T20:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CLS",
+"home" : "CGY",
+"start-date-time" : "20110304T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DAL",
+"home" : "ANH",
+"start-date-time" : "20110304T22:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "STL",
+"home" : "NYI",
+"start-date-time" : "20110305T13:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BUF",
+"home" : "PHI",
+"start-date-time" : "20110305T13:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "VAN",
+"home" : "LA",
+"start-date-time" : "20110305T16:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "FLA",
+"home" : "ATL",
+"start-date-time" : "20110305T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CHI",
+"home" : "TOR",
+"start-date-time" : "20110305T19:00:00-0500",
+"available-on-cbc" : "yes",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PIT",
+"home" : "BOS",
+"start-date-time" : "20110305T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MON",
+"home" : "TB",
+"start-date-time" : "20110305T19:00:00-0500",
+"available-on-cbc" : "yes",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DET",
+"home" : "PHO",
+"start-date-time" : "20110305T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "EDM",
+"home" : "COL",
+"start-date-time" : "20110305T22:00:00-0500",
+"available-on-cbc" : "yes",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DAL",
+"home" : "SJ",
+"start-date-time" : "20110305T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PHI",
+"home" : "NYR",
+"start-date-time" : "20110306T12:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NJ",
+"home" : "NYI",
+"start-date-time" : "20110306T15:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "WAS",
+"home" : "FLA",
+"start-date-time" : "20110306T17:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BUF",
+"home" : "MIN",
+"start-date-time" : "20110306T18:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "VAN",
+"home" : "ANH",
+"start-date-time" : "20110306T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NSH",
+"home" : "CGY",
+"start-date-time" : "20110306T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "WAS",
+"home" : "TB",
+"start-date-time" : "20110307T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CLS",
+"home" : "STL",
+"start-date-time" : "20110307T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "DAL",
+"home" : "LA",
+"start-date-time" : "20110307T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "EDM",
+"home" : "PHI",
+"start-date-time" : "20110308T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "TOR",
+"home" : "NYI",
+"start-date-time" : "20110308T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "OTT",
+"home" : "NJ",
+"start-date-time" : "20110308T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BUF",
+"home" : "PIT",
+"start-date-time" : "20110308T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BOS",
+"home" : "MON",
+"start-date-time" : "20110308T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CHI",
+"home" : "FLA",
+"start-date-time" : "20110308T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "COL",
+"home" : "MIN",
+"start-date-time" : "20110308T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "VAN",
+"home" : "PHO",
+"start-date-time" : "20110308T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NSH",
+"home" : "SJ",
+"start-date-time" : "20110308T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "EDM",
+"home" : "WAS",
+"start-date-time" : "20110309T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "STL",
+"home" : "CLS",
+"start-date-time" : "20110309T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "ATL",
+"home" : "CAR",
+"start-date-time" : "20110309T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "LA",
+"home" : "DET",
+"start-date-time" : "20110309T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CHI",
+"home" : "TB",
+"start-date-time" : "20110309T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CGY",
+"home" : "DAL",
+"start-date-time" : "20110309T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NYR",
+"home" : "ANH",
+"start-date-time" : "20110309T22:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BUF",
+"home" : "BOS",
+"start-date-time" : "20110310T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "PHI",
+"home" : "TOR",
+"start-date-time" : "20110310T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "OTT",
+"home" : "FLA",
+"start-date-time" : "20110310T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MIN",
+"home" : "NSH",
+"start-date-time" : "20110310T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MON",
+"home" : "STL",
+"start-date-time" : "20110310T20:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CGY",
+"home" : "PHO",
+"start-date-time" : "20110310T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "VAN",
+"home" : "SJ",
+"start-date-time" : "20110310T22:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "CAR",
+"home" : "WAS",
+"start-date-time" : "20110311T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "LA",
+"home" : "CLS",
+"start-date-time" : "20110311T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "BOS",
+"home" : "NYI",
+"start-date-time" : "20110311T19:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "OTT",
+"home" : "TB",
+"start-date-time" : "20110311T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "NJ",
+"home" : "ATL",
+"start-date-time" : "20110311T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "EDM",
+"home" : "DET",
+"start-date-time" : "20110311T19:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "MIN",
+"home" : "DAL",
+"start-date-time" : "20110311T20:30:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+} ,
+{
+"away" : "ANH",
+"home" : "COL",
+"start-date-time" : "20110311T21:00:00-0500",
+"available-on-cbc" : "no",
+"season" : "Regular Season"
+}
+]

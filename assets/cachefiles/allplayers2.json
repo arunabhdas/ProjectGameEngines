@@ -1,0 +1,7017 @@
+[
+{
+"name" : "Alexandrov, Yury",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Arniel, Jamie",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Bartkowski, Matt",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Bergeron, Patrice",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Bodnarchuk, Andrew",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Boychuk, Johnny",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Campbell, Gregory",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Caron, Jordan",
+"position" : "Right Wing",
+"team" : "Bos"
+},
+{
+"name" : "Chara, Zdeno",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Cohen, Colby",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Courchaine, Adam",
+"position" : "Goaltender",
+"team" : "Bos"
+},
+{
+"name" : "Dalton, Matt",
+"position" : "Goaltender",
+"team" : "Bos"
+},
+{
+"name" : "Ference, Andrew",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Hamill, Zach",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Hnidy, Shane",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Horton, Nathan",
+"position" : "Right Wing",
+"team" : "Bos"
+},
+{
+"name" : "Kaberle, Tomas",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Kampfer, Steve",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Kelly, Chris",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Khudobin, Anton",
+"position" : "Goaltender",
+"team" : "Bos"
+},
+{
+"name" : "Krejci, David",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Laliberte, David",
+"position" : "Right Wing",
+"team" : "Bos"
+},
+{
+"name" : "Lucic, Milan",
+"position" : "Left Wing",
+"team" : "Bos"
+},
+{
+"name" : "MacDonald, Kirk",
+"position" : "Left Wing",
+"team" : "Bos"
+},
+{
+"name" : "Marchand, Brad",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "McEachern, Shawn",
+"position" : "Left Wing",
+"team" : "Bos"
+},
+{
+"name" : "McIver, Nathan",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "McQuaid, Adam",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Paille, Daniel",
+"position" : "Left Wing",
+"team" : "Bos"
+},
+{
+"name" : "Peverley, Rich",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Rask, Tuukka",
+"position" : "Goaltender",
+"team" : "Bos"
+},
+{
+"name" : "Recchi, Mark",
+"position" : "Right Wing",
+"team" : "Bos"
+},
+{
+"name" : "Reich, Jeremy",
+"position" : "Left Wing",
+"team" : "Bos"
+},
+{
+"name" : "Ryder, Michael",
+"position" : "Right Wing",
+"team" : "Bos"
+},
+{
+"name" : "Sauve, Max",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Savard, Marc",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Schaefer, Nolan",
+"position" : "Goaltender",
+"team" : "Bos"
+},
+{
+"name" : "Seguin, Tyler",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Seidenberg, Dennis",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Simek, Juraj",
+"position" : "Left Wing",
+"team" : "Bos"
+},
+{
+"name" : "Smith, Wyatt",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Spooner, Ryan",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Thomas, Tim",
+"position" : "Goaltender",
+"team" : "Bos"
+},
+{
+"name" : "Thornton, Shawn",
+"position" : "Left Wing",
+"team" : "Bos"
+},
+{
+"name" : "Valabik, Boris",
+"position" : "Defense",
+"team" : "Bos"
+},
+{
+"name" : "Whitfield, Trent",
+"position" : "Center",
+"team" : "Bos"
+},
+{
+"name" : "Adam, Luke",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Biega, Alex",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Boyes, Brad",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Brennan, T.J.",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Butler, Chris",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Byron, Paul",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Conboy, Tim",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Connolly, Tim",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Crawford, Nick",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Ellis, Matt",
+"position" : "Left Wing",
+"team" : "Buf"
+},
+{
+"name" : "Ennis, Tyler",
+"position" : "Left Wing",
+"team" : "Buf"
+},
+{
+"name" : "Enroth, Jhonas",
+"position" : "Goaltender",
+"team" : "Buf"
+},
+{
+"name" : "Gaustad, Paul",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Gerbe, Nathan",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Gragnani, Marc-Andre",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Grier, Mike",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Hecht, Jochen",
+"position" : "Left Wing",
+"team" : "Buf"
+},
+{
+"name" : "Kaleta, Patrick",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Kassian, Zack",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Lalime, Patrick",
+"position" : "Goaltender",
+"team" : "Buf"
+},
+{
+"name" : "Leggio, David",
+"position" : "Goaltender",
+"team" : "Buf"
+},
+{
+"name" : "Leopold, Jordan",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Mancari, Mark",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "McCauley, Dennis",
+"position" : "Left Wing",
+"team" : "Buf"
+},
+{
+"name" : "McCormick, Cody",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "McNabb, Brayden",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Miller, Ryan",
+"position" : "Goaltender",
+"team" : "Buf"
+},
+{
+"name" : "Montador, Steve",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Morrisonn, Shaone",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Myers, Tyler",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Niedermayer, Rob",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Parrish, Mark",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Persson, Dennis",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Pominville, Jason",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Roy, Derek",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Schiestel, Drew",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Schutz, Felix",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Sekera, Andrej",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Stafford, Drew",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Stuart, Colin",
+"position" : "Left Wing",
+"team" : "Buf"
+},
+{
+"name" : "Tropp, Corey",
+"position" : "Right Wing",
+"team" : "Buf"
+},
+{
+"name" : "Turnbull, Travis",
+"position" : "Center",
+"team" : "Buf"
+},
+{
+"name" : "Vanek, Thomas",
+"position" : "Left Wing",
+"team" : "Buf"
+},
+{
+"name" : "Weber, Mike",
+"position" : "Defense",
+"team" : "Buf"
+},
+{
+"name" : "Whitmore, Derek",
+"position" : "Left Wing",
+"team" : "Buf"
+},
+{
+"name" : "Armstrong, John",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Babchuk, Anton",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Backlund, Mikael",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Baldwin, Gord",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Bancks, Carter",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Bouma, Lance",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Bourque, Rene",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Bouwmeester, Jay",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Brodie, T.J.",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Cameron, Bryan",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Carson, Brett",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Chucko, Kris",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Conroy, Craig",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Cunning, Cam",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Giordano, Mark",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Glencross, Curtis",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Hagman, Niklas",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Iginla, Jarome",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Irving, Leland",
+"position" : "Goaltender",
+"team" : "Cgy"
+},
+{
+"name" : "Ivanans, Raitis",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Jackman, Tim",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Jokinen, Olli",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Karlsson, Henrik",
+"position" : "Goaltender",
+"team" : "Cgy"
+},
+{
+"name" : "Keetley, Matt",
+"position" : "Goaltender",
+"team" : "Cgy"
+},
+{
+"name" : "Kiprusoff, Miikka",
+"position" : "Goaltender",
+"team" : "Cgy"
+},
+{
+"name" : "Kostopoulos, Tom",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Kotalik, Ales",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Kronwall, Staffan",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Langkow, Daymond",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Meyer, Stefan",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Meyers, Josh",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Mikkelson, Brendan",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Modin, Fredrik",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Morrison, Brendan",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Moss, David",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Negrin, John",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Nemisz, Greg",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Pardy, Adam",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Patterson, Gaelan",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Pelech, Matt",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Regehr, Robyn",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Rheault, Jon",
+"position" : "Right Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Sarich, Cory",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Staios, Steve",
+"position" : "Defense",
+"team" : "Cgy"
+},
+{
+"name" : "Stajan, Matt",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Stone, Ryan",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Tanguay, Alex",
+"position" : "Left Wing",
+"team" : "Cgy"
+},
+{
+"name" : "Wahl, Mitch",
+"position" : "Center",
+"team" : "Cgy"
+},
+{
+"name" : "Beach, Kyle",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Bickell, Bryan",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Bolland, Dave",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Bollig, Brandon",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Brookbank, Wade",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Brophey, Evan",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Brouwer, Troy",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Campbell, Brian",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Campoli, Chris",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Connelly, Brian",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Crawford, Corey",
+"position" : "Goaltender",
+"team" : "Chi"
+},
+{
+"name" : "Cullimore, Jassen",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "DiDomenico, Chris",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Dowell, Jake",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Exelby, Garnet",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Frolik, Michael",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Hendry, Jordan",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Hjalmarsson, Niklas",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Hossa, Marian",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Johnson, Ryan",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Kane, Patrick",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Keith, Duncan",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Klinkhammer, Rob",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Kopecky, Tomas",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Lalonde, Shawn",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Leddy, Nick",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Makarov, Igor",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Morin, Jeremy",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Olimb, Mathis",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Pirri, Brandon",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Pisani, Fernando",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Richards, Alec",
+"position" : "Goaltender",
+"team" : "Chi"
+},
+{
+"name" : "Scott, John",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Seabrook, Brent",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Sharp, Patrick",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Smith, Ben",
+"position" : "Right Wing",
+"team" : "Chi"
+},
+{
+"name" : "Stalberg, Viktor",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Taffe, Jeff",
+"position" : "Left Wing",
+"team" : "Chi"
+},
+{
+"name" : "Toews, Jonathan",
+"position" : "Center",
+"team" : "Chi"
+},
+{
+"name" : "Toivonen, Hannu",
+"position" : "Goaltender",
+"team" : "Chi"
+},
+{
+"name" : "Turco, Marty",
+"position" : "Goaltender",
+"team" : "Chi"
+},
+{
+"name" : "Vishnevskiy, Ivan",
+"position" : "Defense",
+"team" : "Chi"
+},
+{
+"name" : "Abdelkader, Justin",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Andersson, Joakim",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Bertuzzi, Todd",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Cleary, Danny",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Coetzee, Willie",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Datsyuk, Pavel",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Downey, Aaron",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Draper, Kris",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Eaves, Patrick",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Ehrhardt, Travis",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Emmerton, Cory",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Ericsson, Jonathan",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Filppula, Ilari",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Filppula, Valtteri",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Franzen, Johan",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Helm, Darren",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Holmstrom, Tomas",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Howard, Jimmy",
+"position" : "Goaltender",
+"team" : "Det"
+},
+{
+"name" : "Hudler, Jiri",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Janik, Doug",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Johnson, Jamie",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Kindl, Jakub",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Kolosov, Sergei",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Kronwall, Niklas",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Lashoff, Brian",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Lidstrom, Nicklas",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "MacDonald, Joey",
+"position" : "Goaltender",
+"team" : "Det"
+},
+{
+"name" : "Maltby, Kirk",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "McCollum, Thomas",
+"position" : "Goaltender",
+"team" : "Det"
+},
+{
+"name" : "Meech, Derek",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Miller, Drew",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Minard, Chris",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Modano, Mike",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Mursak, Jan",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Osgood, Chris",
+"position" : "Goaltender",
+"team" : "Det"
+},
+{
+"name" : "Owens, Jordan",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Pare, Francis",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Pearce, Jordan",
+"position" : "Goaltender",
+"team" : "Det"
+},
+{
+"name" : "Piche, Sebastien",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Pyett, Logan",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Raedeke, Brent",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Rafalski, Brian",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Salei, Ruslan",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Smith, Brendan",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Stuart, Brad",
+"position" : "Defense",
+"team" : "Det"
+},
+{
+"name" : "Tardif, Jamie",
+"position" : "Right Wing",
+"team" : "Det"
+},
+{
+"name" : "Tatar, Tomas",
+"position" : "Center",
+"team" : "Det"
+},
+{
+"name" : "Zetterberg, Henrik",
+"position" : "Left Wing",
+"team" : "Det"
+},
+{
+"name" : "Aulin, Jared",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Brule, Gilbert",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Chorney, Taylor",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Cogliano, Andrew",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Deslauriers, Jeff",
+"position" : "Goaltender",
+"team" : "Edm"
+},
+{
+"name" : "Dubnyk, Devan",
+"position" : "Goaltender",
+"team" : "Edm"
+},
+{
+"name" : "Eberle, Jordan",
+"position" : "Right Wing",
+"team" : "Edm"
+},
+{
+"name" : "Foster, Kurtis",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Fraser, Colin",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Gagner, Sam",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Gerber, Martin",
+"position" : "Goaltender",
+"team" : "Edm"
+},
+{
+"name" : "Gilbert, Tom",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Giroux, Alexandre",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Hall, Taylor",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Hartikainen, Teemu",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Hemsky, Ales",
+"position" : "Right Wing",
+"team" : "Edm"
+},
+{
+"name" : "Horcoff, Shawn",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Jacques, Jean-Francois",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Jones, Ryan",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Khabibulin, Nikolai",
+"position" : "Goaltender",
+"team" : "Edm"
+},
+{
+"name" : "MacIntyre, Steve",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "McDonald, Colin",
+"position" : "Right Wing",
+"team" : "Edm"
+},
+{
+"name" : "Montgomery, Kevin",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Moran, Brad",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Motin, Johan",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "O'Marra, Ryan",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Omark, Linus",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Ondrus, Ben",
+"position" : "Right Wing",
+"team" : "Edm"
+},
+{
+"name" : "Paajarvi, Magnus",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Peckham, Theo",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Petiot, Richard",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Petry, Jeff",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Pitlick, Tyler",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Pitton, Bryan",
+"position" : "Goaltender",
+"team" : "Edm"
+},
+{
+"name" : "Plante, Alex",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Reddox, Liam",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Smid, Ladislav",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Souray, Sheldon",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Stewart, Gregory",
+"position" : "Left Wing",
+"team" : "Edm"
+},
+{
+"name" : "Stortini, Zack",
+"position" : "Right Wing",
+"team" : "Edm"
+},
+{
+"name" : "Strudwick, Jason",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Taylor, Jake",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Teubert, Colten",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Vande Velde, Chris",
+"position" : "Center",
+"team" : "Edm"
+},
+{
+"name" : "Vandermeer, Jim",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Whitney, Ryan",
+"position" : "Defense",
+"team" : "Edm"
+},
+{
+"name" : "Allen, Bryan",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Blanchard, Nicolas",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Bodie, Troy",
+"position" : "Right Wing",
+"team" : "Car"
+},
+{
+"name" : "Borer, Casey",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Bowman, Drayson",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Boychuk, Zach",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Cole, Erik",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Corvo, Joe",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Dalpe, Zac",
+"position" : "Center",
+"team" : "Car"
+},
+{
+"name" : "Dodge, Nick",
+"position" : "Right Wing",
+"team" : "Car"
+},
+{
+"name" : "Dwyer, Pat",
+"position" : "Right Wing",
+"team" : "Car"
+},
+{
+"name" : "Gleason, Tim",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Harrison, Jay",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Jokinen, Jussi",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Joslin, Derek",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "LaRose, Chad",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Matsumoto, Jon",
+"position" : "Center",
+"team" : "Car"
+},
+{
+"name" : "McBain, Jamie",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Murphy, Mike",
+"position" : "Goaltender",
+"team" : "Car"
+},
+{
+"name" : "Nash, Riley",
+"position" : "Center",
+"team" : "Car"
+},
+{
+"name" : "Osala, Oskar",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Peters, Justin",
+"position" : "Goaltender",
+"team" : "Car"
+},
+{
+"name" : "Pitkanen, Joni",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Pogge, Justin",
+"position" : "Goaltender",
+"team" : "Car"
+},
+{
+"name" : "Rodney, Bryan",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Ruutu, Tuomo",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Samson, Jerome",
+"position" : "Right Wing",
+"team" : "Car"
+},
+{
+"name" : "Sanguinetti, Bobby",
+"position" : "Defense",
+"team" : "Car"
+},
+{
+"name" : "Skinner, Jeff",
+"position" : "Center",
+"team" : "Car"
+},
+{
+"name" : "Staal, Eric",
+"position" : "Center",
+"team" : "Car"
+},
+{
+"name" : "Staal, Jared",
+"position" : "Right Wing",
+"team" : "Car"
+},
+{
+"name" : "Stillman, Cory",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Sutter, Brandon",
+"position" : "Center",
+"team" : "Car"
+},
+{
+"name" : "Sutter, Brett",
+"position" : "Left Wing",
+"team" : "Car"
+},
+{
+"name" : "Tlusty, Jiri",
+"position" : "Center",
+"team" : "Car"
+},
+{
+"name" : "Ward, Cam",
+"position" : "Goaltender",
+"team" : "Car"
+},
+{
+"name" : "Azevedo, Justin",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Bernier, Jonathan",
+"position" : "Goaltender",
+"team" : "LA"
+},
+{
+"name" : "Brown, Dustin",
+"position" : "Right Wing",
+"team" : "LA"
+},
+{
+"name" : "Campbell, Andrew",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Cliche, Marc-Andre",
+"position" : "Right Wing",
+"team" : "LA"
+},
+{
+"name" : "Clifford, Kyle",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Clune, Richard",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Czarnik, Robert",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Doughty, Drew",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Drewiske, Davis",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Elkins, Corey",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Ersberg, Erik",
+"position" : "Goaltender",
+"team" : "LA"
+},
+{
+"name" : "Fransson, Johan",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Greene, Matt",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Handzus, Michal",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Harrold, Peter",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Hickey, Thomas",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Holloway, Bud",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Johnson, Jack",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Jones, Martin",
+"position" : "Goaltender",
+"team" : "LA"
+},
+{
+"name" : "Kaunisto, Ray",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "King, Dwight",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Kolomatis, David",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Kopitar, Anze",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Kozun, Brandon",
+"position" : "Right Wing",
+"team" : "LA"
+},
+{
+"name" : "Lewis, Trevor",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Loktionov, Andrei",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Martinez, Alec",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Meckler, David",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Mitchell, Willie",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Moller, Oscar",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Mullen, Patrick",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Muzzin, Jake",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Nolan, Jordan",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Parse, Scott",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Penner, Dustin",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Ponikarovsky, Alexei",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Quick, Jonathan",
+"position" : "Goaltender",
+"team" : "LA"
+},
+{
+"name" : "Richardson, Brad",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Schenn, Brayden",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Scuderi, Rob",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Simmonds, Wayne",
+"position" : "Right Wing",
+"team" : "LA"
+},
+{
+"name" : "Smyth, Ryan",
+"position" : "Left Wing",
+"team" : "LA"
+},
+{
+"name" : "Stoll, Jarret",
+"position" : "Center",
+"team" : "LA"
+},
+{
+"name" : "Voynov, Viatcheslav",
+"position" : "Defense",
+"team" : "LA"
+},
+{
+"name" : "Westgarth, Kevin",
+"position" : "Right Wing",
+"team" : "LA"
+},
+{
+"name" : "Williams, Justin",
+"position" : "Right Wing",
+"team" : "LA"
+},
+{
+"name" : "Zatkoff, Jeff",
+"position" : "Goaltender",
+"team" : "LA"
+},
+{
+"name" : "Zeiler, John",
+"position" : "Right Wing",
+"team" : "LA"
+},
+{
+"name" : "Bachman, Richard",
+"position" : "Goaltender",
+"team" : "Dal"
+},
+{
+"name" : "Barch, Krys",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Benn, Jamie",
+"position" : "Left Wing",
+"team" : "Dal"
+},
+{
+"name" : "Blindenbacher, Severin",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Burish, Adam",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Coyle, Jace",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Daley, Trevor",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Eriksson, Loui",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Fistric, Mark",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Fortunus, Maxime",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Gagnon, Aaron",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Gazdic, Luke",
+"position" : "Left Wing",
+"team" : "Dal"
+},
+{
+"name" : "Glennie, Scott",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Goligoski, Alex",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Grossman, Nicklas",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Krahn, Brent",
+"position" : "Goaltender",
+"team" : "Dal"
+},
+{
+"name" : "Langenbrunner, Jamie",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Larsen, Philip",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Lehtonen, Kari",
+"position" : "Goaltender",
+"team" : "Dal"
+},
+{
+"name" : "Ludwig, Trevor",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Lukowich, Brad",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Morin, Travis",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Morrow, Brenden",
+"position" : "Left Wing",
+"team" : "Dal"
+},
+{
+"name" : "Ott, Steve",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Petersen, Toby",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Rallo, Greg",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Raycroft, Andrew",
+"position" : "Goaltender",
+"team" : "Dal"
+},
+{
+"name" : "Ribeiro, Mike",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Richards, Brad",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Robidas, Stephane",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Roman, Ondrej",
+"position" : "Left Wing",
+"team" : "Dal"
+},
+{
+"name" : "Sawada, Raymond",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Sceviour, Colton",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Segal, Brandon",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Skrastins, Karlis",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Stephenson, Matt",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Sutherby, Brian",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Tousignant, Mathieu",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Vincour, Tomas",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Wandell, Tom",
+"position" : "Center",
+"team" : "Dal"
+},
+{
+"name" : "Wathier, Francis",
+"position" : "Left Wing",
+"team" : "Dal"
+},
+{
+"name" : "Williams, Jason",
+"position" : "Right Wing",
+"team" : "Dal"
+},
+{
+"name" : "Woywitka, Jeff",
+"position" : "Defense",
+"team" : "Dal"
+},
+{
+"name" : "Auld, Alex",
+"position" : "Goaltender",
+"team" : "Mon"
+},
+{
+"name" : "Bishop, Hunter",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Boyd, Dustin",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Cammalleri, Michael",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Carle, Mathieu",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Conboy, Andrew",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Darche, Mathieu",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Dawes, Nigel",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Delmas, Peter",
+"position" : "Goaltender",
+"team" : "Mon"
+},
+{
+"name" : "Desharnais, David",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Dumont, Gabriel",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Eller, Lars",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Engqvist, Andreas",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Fortier, Olivier",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Gill, Hal",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Gionta, Brian",
+"position" : "Right Wing",
+"team" : "Mon"
+},
+{
+"name" : "Gomez, Scott",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Gorges, Josh",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Halpern, Jeff",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Hamrlik, Roman",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Henry, Alex",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Klubertanz, Kyle",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Kostitsyn, Andrei",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Leblanc, Louis",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "MacIntyre, Drew",
+"position" : "Goaltender",
+"team" : "Mon"
+},
+{
+"name" : "Mara, Paul",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Markov, Andrei",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Mayer, Robert",
+"position" : "Goaltender",
+"team" : "Mon"
+},
+{
+"name" : "Moen, Travis",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Nash, Brendon",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Pacioretty, Max",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Palushaj, Aaron",
+"position" : "Right Wing",
+"team" : "Mon"
+},
+{
+"name" : "Picard, Alexandre",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Plekanec, Tomas",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Pouliot, Benoit",
+"position" : "Left Wing",
+"team" : "Mon"
+},
+{
+"name" : "Price, Carey",
+"position" : "Goaltender",
+"team" : "Mon"
+},
+{
+"name" : "Pyatt, Tom",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Russell, Ryan",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Sanford, Curtis",
+"position" : "Goaltender",
+"team" : "Mon"
+},
+{
+"name" : "Schultz, Ian",
+"position" : "Right Wing",
+"team" : "Mon"
+},
+{
+"name" : "Sopel, Brent",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Spacek, Jaroslav",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "St. Denis, Frederic",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Subban, P.K.",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Tinordi, Jarred",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Weber, Yannick",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "White, Ryan",
+"position" : "Center",
+"team" : "Mon"
+},
+{
+"name" : "Wisniewski, James",
+"position" : "Defense",
+"team" : "Mon"
+},
+{
+"name" : "Wyman, J.T.",
+"position" : "Right Wing",
+"team" : "Mon"
+},
+{
+"name" : "Berube, Jean-Sebastien",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Brodeur, Martin",
+"position" : "Goaltender",
+"team" : "NJ"
+},
+{
+"name" : "Clarkson, David",
+"position" : "Right Wing",
+"team" : "NJ"
+},
+{
+"name" : "Corrente, Matthew",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Davison, Rob",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Eckford, Tyler",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Elias, Patrik",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Fayne, Mark",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Fraser, Mark",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Frazee, Jeff",
+"position" : "Goaltender",
+"team" : "NJ"
+},
+{
+"name" : "Gelinas, Eric",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Gionta, Stephen",
+"position" : "Right Wing",
+"team" : "NJ"
+},
+{
+"name" : "Greene, Andy",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Hedberg, Johan",
+"position" : "Goaltender",
+"team" : "NJ"
+},
+{
+"name" : "Henrique, Adam",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Josefson, Jacob",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Kelly, Dan",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Kovalchuk, Ilya",
+"position" : "Right Wing",
+"team" : "NJ"
+},
+{
+"name" : "Leach, Jay",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Letourneau-Leblond, Pierre-Luc",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Magnan, Olivier",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Mair, Adam",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "McIntyre, David",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "McKenna, Mike",
+"position" : "Goaltender",
+"team" : "NJ"
+},
+{
+"name" : "Mills, Brad",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Nilson, Marcus",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Palmieri, Nick",
+"position" : "Right Wing",
+"team" : "NJ"
+},
+{
+"name" : "Parise, Zach",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Pelley, Rod",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Rolston, Brian",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Salmela, Anssi",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Salvador, Bryce",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Sestito, Tim",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Steckel, Dave",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Tallinder, Henrik",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Taormina, Matt",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Tedenby, Mattias",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Urbom, Alexander",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Vasyunov, Alexander",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Volchenkov, Anton",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "White, Colin",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Wiseman, Chad",
+"position" : "Left Wing",
+"team" : "NJ"
+},
+{
+"name" : "Young, Harry",
+"position" : "Defense",
+"team" : "NJ"
+},
+{
+"name" : "Zajac, Travis",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Zalewski, Steve",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Zharkov, Vladimir",
+"position" : "Right Wing",
+"team" : "NJ"
+},
+{
+"name" : "Zubrus, Dainius",
+"position" : "Center",
+"team" : "NJ"
+},
+{
+"name" : "Bailey, Josh",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Colliton, Jeremy",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Comeau, Blake",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "de Haan, Calvin",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "DiBenedetto, Justin",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "DiPietro, Rick",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "Eaton, Mark",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Eriksson, Anders",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Figren, Robin",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Gervais, Bruno",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Gillies, Trevor",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Grabner, Michael",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Haley, Micheal",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Hamonic, Travis",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Hilbert, Andy",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Hillen, Jack",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Hisey, Rob",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Hunter, Trent",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Joensuu, Jesse",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Jurcina, Milan",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Katic, Mark",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Klementyev, Anton",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Kohn, Dustin",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Kolanos, Krystofer",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Konopka, Zenon",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Koskinen, Mikko",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "Lawson, Nathan",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "Legace, Manny",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "MacDonald, Andrew",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Marcinko, Tomas",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Martin, Joel",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "Martin, Matt",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Martinek, Radek",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "McAmmond, Dean",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Montoya, Al",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "Mottau, Mike",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Moulson, Matt",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Nabokov, Evgeni",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "Niederreiter, Nino",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Nielsen, Frans",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Okposo, Kyle",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Parenteau, P.A.",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Petrov, Kirill",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Poulin, Kevin",
+"position" : "Goaltender",
+"team" : "NYI"
+},
+{
+"name" : "Rakhshani, Rhett",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Reese, Dylan",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Sim, Jon",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Streit, Mark",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Tavares, John",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Ullstrom, David",
+"position" : "Left Wing",
+"team" : "NYI"
+},
+{
+"name" : "Weight, Doug",
+"position" : "Center",
+"team" : "NYI"
+},
+{
+"name" : "Wishart, Ty",
+"position" : "Defense",
+"team" : "NYI"
+},
+{
+"name" : "Yablonski, Jeremy",
+"position" : "Right Wing",
+"team" : "NYI"
+},
+{
+"name" : "Anisimov, Artem",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Avery, Sean",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Baldwin, Lee",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Biron, Martin",
+"position" : "Goaltender",
+"team" : "NYR"
+},
+{
+"name" : "Boogaard, Derek",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Boyle, Brian",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Callahan, Ryan",
+"position" : "Right Wing",
+"team" : "NYR"
+},
+{
+"name" : "Christensen, Erik",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Del Zotto, Michael",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Drury, Chris",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Dubinsky, Brandon",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Dupont, Brodie",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Eminger, Steve",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Fedotenko, Ruslan",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Frolov, Alexander",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Gaborik, Marian",
+"position" : "Right Wing",
+"team" : "NYR"
+},
+{
+"name" : "Gilroy, Matt",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Girardi, Dan",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Grachev, Evgeny",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Johnson, Chad",
+"position" : "Goaltender",
+"team" : "NYR"
+},
+{
+"name" : "Kolarik, Chad",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Kundratek, Tomas",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Lundqvist, Henrik",
+"position" : "Goaltender",
+"team" : "NYR"
+},
+{
+"name" : "McCabe, Bryan",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "McDonagh, Ryan",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Mitchell, John",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Newbury, Kris",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Prospal, Vinny",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Prust, Brandon",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Redden, Wade",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Sauer, Mike",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Semenov, Alexei",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Staal, Marc",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Stepan, Derek",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Talbot, Cam",
+"position" : "Goaltender",
+"team" : "NYR"
+},
+{
+"name" : "Valentenko, Pavel",
+"position" : "Defense",
+"team" : "NYR"
+},
+{
+"name" : "Weise, Dale",
+"position" : "Right Wing",
+"team" : "NYR"
+},
+{
+"name" : "White, Todd",
+"position" : "Center",
+"team" : "NYR"
+},
+{
+"name" : "Williams, Jeremy",
+"position" : "Right Wing",
+"team" : "NYR"
+},
+{
+"name" : "Wolski, Wojtek",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Zuccarello, Mats",
+"position" : "Left Wing",
+"team" : "NYR"
+},
+{
+"name" : "Alfredsson, Daniel",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Anderson, Craig",
+"position" : "Goaltender",
+"team" : "Ott"
+},
+{
+"name" : "Bailey, Jason",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Bass, Cody",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "Benoit, Andre",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Brodeur, Mike",
+"position" : "Goaltender",
+"team" : "Ott"
+},
+{
+"name" : "Butler, Bobby",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Carkner, Matt",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Condra, Erik",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Cowen, Jared",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Cowick, Corey",
+"position" : "Left Wing",
+"team" : "Ott"
+},
+{
+"name" : "Daugavins, Kaspars",
+"position" : "Left Wing",
+"team" : "Ott"
+},
+{
+"name" : "Dziurzynski, David",
+"position" : "Left Wing",
+"team" : "Ott"
+},
+{
+"name" : "Foligno, Nick",
+"position" : "Left Wing",
+"team" : "Ott"
+},
+{
+"name" : "Gonchar, Sergei",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Greening, Colin",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "Gryba, Eric",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Hale, David",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Hoffman, Mike",
+"position" : "Left Wing",
+"team" : "Ott"
+},
+{
+"name" : "Karlsson, Erik",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Keller, Ryan",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Kinrade, Geoff",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Kuba, Filip",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Leclaire, Pascal",
+"position" : "Goaltender",
+"team" : "Ott"
+},
+{
+"name" : "Lee, Brian",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Lehner, Robin",
+"position" : "Goaltender",
+"team" : "Ott"
+},
+{
+"name" : "Lessard, Francis",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Locke, Corey",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "McElhinney, Curtis",
+"position" : "Goaltender",
+"team" : "Ott"
+},
+{
+"name" : "Michalek, Milan",
+"position" : "Left Wing",
+"team" : "Ott"
+},
+{
+"name" : "Neil, Chris",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "O'Brien, Jim",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "Phillips, Chris",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Potulny, Ryan",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "Regin, Peter",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "Schira, Craig",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Shannon, Ryan",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Smith, Derek",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Smith, Zack",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "Spencer, Tim",
+"position" : "Left Wing",
+"team" : "Ott"
+},
+{
+"name" : "Spezza, Jason",
+"position" : "Center",
+"team" : "Ott"
+},
+{
+"name" : "Svatos, Marek",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Wick, Roman",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Wiercioch, Patrick",
+"position" : "Defense",
+"team" : "Ott"
+},
+{
+"name" : "Winchester, Jesse",
+"position" : "Right Wing",
+"team" : "Ott"
+},
+{
+"name" : "Backlund, Johan",
+"position" : "Goaltender",
+"team" : "Phi"
+},
+{
+"name" : "Bartulis, Oskars",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Betts, Blair",
+"position" : "Center",
+"team" : "Phi"
+},
+{
+"name" : "Bobrovsky, Sergei",
+"position" : "Goaltender",
+"team" : "Phi"
+},
+{
+"name" : "Bordson, Rob",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Boucher, Brian",
+"position" : "Goaltender",
+"team" : "Phi"
+},
+{
+"name" : "Bourdon, Marc-Andre",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Boynton, Nick",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Briere, Danny",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Carcillo, Dan",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Carle, Matt",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Carter, Jeff",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Clackson, Matt",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Coburn, Braydon",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Giroux, Claude",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Guerin, Bill",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Gustafsson, Erik",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Hartnell, Scott",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Holmstrom, Ben",
+"position" : "Center",
+"team" : "Phi"
+},
+{
+"name" : "Jancevski, Dan",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Kalinski, Jon",
+"position" : "Center",
+"team" : "Phi"
+},
+{
+"name" : "Laperriere, Ian",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Legein, Stefan",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Lehtivuori, Joonas",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Leighton, Michael",
+"position" : "Goaltender",
+"team" : "Phi"
+},
+{
+"name" : "Leino, Ville",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Marshall, Kevin",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Meszaros, Andrej",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Nodl, Andreas",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "O'Donnell, Sean",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Powe, Darroll",
+"position" : "Center",
+"team" : "Phi"
+},
+{
+"name" : "Pronger, Chris",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Richards, Mike",
+"position" : "Center",
+"team" : "Phi"
+},
+{
+"name" : "Rinaldo, Zac",
+"position" : "Center",
+"team" : "Phi"
+},
+{
+"name" : "Rowe, Andrew",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Ryan, Michael",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Sestito, Tom",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Shelley, Jody",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Syvret, Danny",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Testwuide, J.P.",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Testwuide, Mike",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Timonen, Kimmo",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "van Riemsdyk, James",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Versteeg, Kris",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Walker, Matt",
+"position" : "Defense",
+"team" : "Phi"
+},
+{
+"name" : "Wellwood, Eric",
+"position" : "Left Wing",
+"team" : "Phi"
+},
+{
+"name" : "Zherdev, Nikolay",
+"position" : "Right Wing",
+"team" : "Phi"
+},
+{
+"name" : "Adams, Craig",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Asham, Arron",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Bortuzzo, Robert",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Boulerice, Jesse",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Comrie, Mike",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Conner, Chris",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Cooke, Matt",
+"position" : "Left Wing",
+"team" : "Pit"
+},
+{
+"name" : "Craig, Ryan",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Crosby, Sidney",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Curry, John",
+"position" : "Goaltender",
+"team" : "Pit"
+},
+{
+"name" : "Despres, Simon",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Dupuis, Pascal",
+"position" : "Left Wing",
+"team" : "Pit"
+},
+{
+"name" : "Engelland, Deryk",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Fleury, Marc-Andre",
+"position" : "Goaltender",
+"team" : "Pit"
+},
+{
+"name" : "Godard, Eric",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Grant, Alex",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Hutchinson, Andrew",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Jeffrey, Dustin",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Johnson, Brent",
+"position" : "Goaltender",
+"team" : "Pit"
+},
+{
+"name" : "Johnson, Nick",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Kennedy, Tyler",
+"position" : "Left Wing",
+"team" : "Pit"
+},
+{
+"name" : "Killeen, Patrick",
+"position" : "Goaltender",
+"team" : "Pit"
+},
+{
+"name" : "Kovalev, Alex",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Kunitz, Chris",
+"position" : "Left Wing",
+"team" : "Pit"
+},
+{
+"name" : "Letang, Kris",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Letestu, Mark",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Lovejoy, Ben",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Malkin, Evgeni",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Martin, Paul",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Michalek, Zbynek",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Modig, Mattias",
+"position" : "Goaltender",
+"team" : "Pit"
+},
+{
+"name" : "Neal, James",
+"position" : "Left Wing",
+"team" : "Pit"
+},
+{
+"name" : "Niskanen, Matt",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Orpik, Brooks",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Pierro-Zabotel, Casey",
+"position" : "Left Wing",
+"team" : "Pit"
+},
+{
+"name" : "Potter, Corey",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Rupp, Michael",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Staal, Jordan",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Sterling, Brett",
+"position" : "Left Wing",
+"team" : "Pit"
+},
+{
+"name" : "Strait, Brian",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Talbot, Max",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Tangradi, Eric",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Thiessen, Brad",
+"position" : "Goaltender",
+"team" : "Pit"
+},
+{
+"name" : "Veilleux, Keven",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Vitale, Joe",
+"position" : "Center",
+"team" : "Pit"
+},
+{
+"name" : "Wagner, Steve",
+"position" : "Defense",
+"team" : "Pit"
+},
+{
+"name" : "Wallace, Tim",
+"position" : "Right Wing",
+"team" : "Pit"
+},
+{
+"name" : "Bacashihua, Jason",
+"position" : "Goaltender",
+"team" : "Col"
+},
+{
+"name" : "Belle, Shawn",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Bordeleau, Patrick",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "Budaj, Peter",
+"position" : "Goaltender",
+"team" : "Col"
+},
+{
+"name" : "Cann, Trevor",
+"position" : "Goaltender",
+"team" : "Col"
+},
+{
+"name" : "Carman, Mike",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Chouinard, Joel",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Cohen, Zach",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "Cumiskey, Kyle",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Duchene, Matt",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Dupuis, Philippe",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Elliott, Brian",
+"position" : "Goaltender",
+"team" : "Col"
+},
+{
+"name" : "Elliott, Stefan",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Fleischmann, Tomas",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "Foote, Adam",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Forsberg, Peter",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Galiardi, T.J.",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "Gaunce, Cameron",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Grahame, John",
+"position" : "Goaltender",
+"team" : "Col"
+},
+{
+"name" : "Hejduk, Milan",
+"position" : "Right Wing",
+"team" : "Col"
+},
+{
+"name" : "Holos, Jonas",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Hunwick, Matt",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Johnson, Erik",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Jones, David",
+"position" : "Right Wing",
+"team" : "Col"
+},
+{
+"name" : "Koci, David",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "Liffiton, David",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Liles, John-Michael",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Macias, Ray",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Mauldin, Greg",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "McClement, Jay",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "McLeod, Cody",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "Mercier, Justin",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Mueller, Peter",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "O'Byrne, Ryan",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "O'Reilly, Ryan",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Olver, Mark",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Porter, Kevin",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Quincey, Kyle",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Reed, Harrison",
+"position" : "Right Wing",
+"team" : "Col"
+},
+{
+"name" : "Stastny, Paul",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Stoa, Ryan",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Talbot, Julian",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Van der Gulik, David",
+"position" : "Left Wing",
+"team" : "Col"
+},
+{
+"name" : "Walker, Luke",
+"position" : "Right Wing",
+"team" : "Col"
+},
+{
+"name" : "Walter, Ben",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Wilson, Ryan",
+"position" : "Defense",
+"team" : "Col"
+},
+{
+"name" : "Winnik, Daniel",
+"position" : "Center",
+"team" : "Col"
+},
+{
+"name" : "Yip, Brandon",
+"position" : "Right Wing",
+"team" : "Col"
+},
+{
+"name" : "Anderson, J.P.",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Boyle, Dan",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Braun, Justin",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Cheechoo, Jonathan",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "Clowe, Ryane",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "Couture, Logan",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "DaSilva, Dan",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "Davis, Patrick",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Demers, Jason",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Desjardins, Andrew",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Doherty, Taylor",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Eager, Ben",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "Ferriero, Benn",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "Greiss, Thomas",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Heatley, Dany",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "Henderson, Kevin",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "Huskins, Kent",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Hutton, Carter",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Irwin, Matt",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Lucia, Tony",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "MacIntyre, Cam",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "Marcou, James",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "Marleau, Patrick",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "Mashinter, Brandon",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "Mayers, Jamal",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "McCarthy, John",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "McGinn, Jamie",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "McLaren, Frazer",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "Mitchell, Torrey",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Moore, Mike",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Murray, Douglas",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Nichol, Scott",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Niemi, Antti",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Niittymaki, Antero",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Pavelski, Joe",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Petrecki, Nick",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Quirk, Cory",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Sateri, Harri",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Schaus, Nick",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Setoguchi, Devin",
+"position" : "Right Wing",
+"team" : "SJ"
+},
+{
+"name" : "Stalock, Alex",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Sullivan, Sean",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Thornton, Joe",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Trevelyan, T.J.",
+"position" : "Left Wing",
+"team" : "SJ"
+},
+{
+"name" : "Vlasic, Marc-Edouard",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Wallin, Niclas",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "Wellwood, Kyle",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "White, Ian",
+"position" : "Defense",
+"team" : "SJ"
+},
+{
+"name" : "White, Jordan",
+"position" : "Goaltender",
+"team" : "SJ"
+},
+{
+"name" : "Wingels, Tommy",
+"position" : "Center",
+"team" : "SJ"
+},
+{
+"name" : "Allen, Jake",
+"position" : "Goaltender",
+"team" : "StL"
+},
+{
+"name" : "Arsene, Dean",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Backes, David",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Beach, Cody",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Berglund, Patrik",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Bishop, Ben",
+"position" : "Goaltender",
+"team" : "StL"
+},
+{
+"name" : "Boyle, Daryl",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Colaiacovo, Carlo",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Cole, Ian",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Conklin, Ty",
+"position" : "Goaltender",
+"team" : "StL"
+},
+{
+"name" : "Cracknell, Adam",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Crombeen, B.J.",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Cundari, Mark",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "D'Agostini, Matt",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Della Rovere, Stefan",
+"position" : "Left Wing",
+"team" : "StL"
+},
+{
+"name" : "Drazenovic, Nicholas",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Evans, Brennan",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Halak, Jaroslav",
+"position" : "Goaltender",
+"team" : "StL"
+},
+{
+"name" : "Hensick, T.J.",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Jackman, Barret",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Janssen, Cam",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "McDonald, Andy",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "McRae, Philip",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Mink, Graham",
+"position" : "Left Wing",
+"team" : "StL"
+},
+{
+"name" : "Nigro, Anthony",
+"position" : "Left Wing",
+"team" : "StL"
+},
+{
+"name" : "Nikitin, Nikita",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Oshie, T.J.",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Oystrick, Nathan",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Peluso, Anthony",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Perron, David",
+"position" : "Left Wing",
+"team" : "StL"
+},
+{
+"name" : "Pietrangelo, Alex",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Polak, Roman",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Ponich, Brett",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Porter, Chris",
+"position" : "Left Wing",
+"team" : "StL"
+},
+{
+"name" : "Reaves, Ryan",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Scatchard, Dave",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Shattenkirk, Kevin",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Shattock, Tyler",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Shields, David",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Sobotka, Vladimir",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Sonne, Brett",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Spina, David",
+"position" : "Left Wing",
+"team" : "StL"
+},
+{
+"name" : "Steen, Alex",
+"position" : "Center",
+"team" : "StL"
+},
+{
+"name" : "Stewart, Chris",
+"position" : "Right Wing",
+"team" : "StL"
+},
+{
+"name" : "Strachan, Tyson",
+"position" : "Defense",
+"team" : "StL"
+},
+{
+"name" : "Angelidis, Mike",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Ashton, Carter",
+"position" : "Right Wing",
+"team" : "TB"
+},
+{
+"name" : "Bergenheim, Sean",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Bergeron, Marc-Andre",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Brewer, Eric",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Clark, Brett",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Connolly, Brett",
+"position" : "Right Wing",
+"team" : "TB"
+},
+{
+"name" : "Desjardins, Cedrick",
+"position" : "Goaltender",
+"team" : "TB"
+},
+{
+"name" : "Downie, Steve",
+"position" : "Right Wing",
+"team" : "TB"
+},
+{
+"name" : "Durno, Chris",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Fadden, Mitch",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Fritz, Mitch",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Gagne, Simon",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Gudas, Radko",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Hall, Adam",
+"position" : "Right Wing",
+"team" : "TB"
+},
+{
+"name" : "Harju, Johan",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Hedman, Victor",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Jackson, Scott",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Janus, Jaroslav",
+"position" : "Goaltender",
+"team" : "TB"
+},
+{
+"name" : "Jones, Blair",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Jones, Randy",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Kubina, Pavel",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Lecavalier, Vincent",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "LoVecchio, Jeff",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Lundin, Mike",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Malone, Ryan",
+"position" : "Left Wing",
+"team" : "TB"
+},
+{
+"name" : "Mihalik, Vladmir",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Moore, Dominic",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Ohlund, Mattias",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Panik, Richard",
+"position" : "Right Wing",
+"team" : "TB"
+},
+{
+"name" : "Perrin, Eric",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Persson, Niklas",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Pouliot, Marc-Antoine",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Purcell, Teddy",
+"position" : "Right Wing",
+"team" : "TB"
+},
+{
+"name" : "Quick, Kevin",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Ritola, Mattias",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Roloson, Dwayne",
+"position" : "Goaltender",
+"team" : "TB"
+},
+{
+"name" : "Roy, Mathieu",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Smaby, Matt",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Smith, Mike",
+"position" : "Goaltender",
+"team" : "TB"
+},
+{
+"name" : "St. Louis, Martin",
+"position" : "Right Wing",
+"team" : "TB"
+},
+{
+"name" : "Stamkos, Steven",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Szczechura, Paul",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Thompson, Nate",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Tokarski, Dustin",
+"position" : "Goaltender",
+"team" : "TB"
+},
+{
+"name" : "Tyrell, Dana",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Vernace, Michael",
+"position" : "Defense",
+"team" : "TB"
+},
+{
+"name" : "Wright, James",
+"position" : "Center",
+"team" : "TB"
+},
+{
+"name" : "Armstrong, Colby",
+"position" : "Right Wing",
+"team" : "Tor"
+},
+{
+"name" : "Aulie, Keith",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Blacker, Jesse",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Boyce, Darryl",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Bozak, Tyler",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Brent, Tim",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Brown, Mike",
+"position" : "Right Wing",
+"team" : "Tor"
+},
+{
+"name" : "Brunnstrom, Fabian",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Caputi, Luca",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Colborne, Joe",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Crabb, Joey",
+"position" : "Right Wing",
+"team" : "Tor"
+},
+{
+"name" : "Crescenzi, Andrew",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "D'Amigo, Jerry",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Finger, Jeff",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Foster, Alex",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Giguere, Jean-Sebastien",
+"position" : "Goaltender",
+"team" : "Tor"
+},
+{
+"name" : "Grabovski, Mikhail",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Gunnarsson, Carl",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Gustavsson, Jonas",
+"position" : "Goaltender",
+"team" : "Tor"
+},
+{
+"name" : "Gysbers, Simon",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Hamilton, Ryan",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Hanson, Christian",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Holzer, Korbinian",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Irwin, Brayden",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Kadri, Nazem",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Kessel, Phil",
+"position" : "Right Wing",
+"team" : "Tor"
+},
+{
+"name" : "Komisarek, Mike",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Kulemin, Nikolai",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Lashoff, Matt",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Lebda, Brett",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Lupul, Joffrey",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "MacArthur, Clarke",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "McKegg, Greg",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Mikus, Juraj",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Mueller, Marcel",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Orr, Colton",
+"position" : "Right Wing",
+"team" : "Tor"
+},
+{
+"name" : "Phaneuf, Dion",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Primeau, Wayne",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Reimer, James",
+"position" : "Goaltender",
+"team" : "Tor"
+},
+{
+"name" : "Richmond, Danny",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Rosehill, Jay",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Rynnas, Jussi",
+"position" : "Goaltender",
+"team" : "Tor"
+},
+{
+"name" : "Schenn, Luke",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Scrivens, Ben",
+"position" : "Goaltender",
+"team" : "Tor"
+},
+{
+"name" : "Sjostrom, Fredrik",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Van Ryn, Mike",
+"position" : "Defense",
+"team" : "Tor"
+},
+{
+"name" : "Voros, Aaron",
+"position" : "Left Wing",
+"team" : "Tor"
+},
+{
+"name" : "Zigomanis, Mike",
+"position" : "Center",
+"team" : "Tor"
+},
+{
+"name" : "Alberts, Andrew",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Andersson, Jonas",
+"position" : "Right Wing",
+"team" : "Van"
+},
+{
+"name" : "Anthony, Steven",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Ballard, Keith",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Baumgartner, Nolan",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Bieksa, Kevin",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Bliznak, Mario",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Bolduc, Alexandre",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Burrows, Alexandre",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Connauton, Kevin",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Desbiens, Guillaume",
+"position" : "Right Wing",
+"team" : "Van"
+},
+{
+"name" : "Edler, Alexander",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Ehrhoff, Christian",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Glass, Tanner",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Hamhuis, Dan",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Hansen, Jannik",
+"position" : "Right Wing",
+"team" : "Van"
+},
+{
+"name" : "Higgins, Chris",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Hodgson, Cody",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Kesler, Ryan",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Lack, Eddie",
+"position" : "Goaltender",
+"team" : "Van"
+},
+{
+"name" : "Lapierre, Maxim",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Luongo, Roberto",
+"position" : "Goaltender",
+"team" : "Van"
+},
+{
+"name" : "Malhotra, Manny",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Morin, Pierre-Olivier",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Oreskovich, Victor",
+"position" : "Right Wing",
+"team" : "Van"
+},
+{
+"name" : "Paetsch, Nathan",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Parent, Ryan",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Peters, Andrew",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Polasek, Adam",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Rai, Prab",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Raymond, Mason",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Rome, Aaron",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Rosa, Marco",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Rypien, Rick",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Salo, Sami",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Samuelsson, Mikael",
+"position" : "Right Wing",
+"team" : "Van"
+},
+{
+"name" : "Sauve, Yann",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Schaefer, Peter",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Schneider, Cory",
+"position" : "Goaltender",
+"team" : "Van"
+},
+{
+"name" : "Schneider, Stefan",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Schroeder, Jordan",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Sedin, Daniel",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Sedin, Henrik",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Shantz, David",
+"position" : "Goaltender",
+"team" : "Van"
+},
+{
+"name" : "Sharp, MacGregor",
+"position" : "Center",
+"team" : "Van"
+},
+{
+"name" : "Shirokov, Sergei",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Sweatt, Bill",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Sweatt, Lee",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Tambellini, Jeff",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Tanev, Chris",
+"position" : "Defense",
+"team" : "Van"
+},
+{
+"name" : "Torres, Raffi",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Volpatti, Aaron",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Weiman, Tyler",
+"position" : "Goaltender",
+"team" : "Van"
+},
+{
+"name" : "Weller, Shawn",
+"position" : "Left Wing",
+"team" : "Van"
+},
+{
+"name" : "Alzner, Karl",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Arnott, Jason",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Aucoin, Keith",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Backstrom, Nicklas",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Beagle, Jay",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Bouchard, Francois",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Bradley, Matt",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Bruess, Trevor",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Carlson, John",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Chimera, Jason",
+"position" : "Left Wing",
+"team" : "Was"
+},
+{
+"name" : "Collins, Sean",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Eakin, Cody",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Erskine, John",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Fahey, Brian",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Fehr, Eric",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Ford, Todd",
+"position" : "Goaltender",
+"team" : "Was"
+},
+{
+"name" : "Gordon, Andrew",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Gordon, Boyd",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Green, Mike",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Greentree, Kyle",
+"position" : "Left Wing",
+"team" : "Was"
+},
+{
+"name" : "Hannan, Scott",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Hendricks, Matt",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Holtby, Braden",
+"position" : "Goaltender",
+"team" : "Was"
+},
+{
+"name" : "Johansson, Marcus",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Joudrey, Andrew",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "King, D.J.",
+"position" : "Left Wing",
+"team" : "Was"
+},
+{
+"name" : "Knuble, Mike",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Laich, Brooks",
+"position" : "Left Wing",
+"team" : "Was"
+},
+{
+"name" : "McNeill, Grant",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "McNeill, Patrick",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Neuvirth, Michal",
+"position" : "Goaltender",
+"team" : "Was"
+},
+{
+"name" : "Nycholat, Lawrence",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Ovechkin, Alex",
+"position" : "Left Wing",
+"team" : "Was"
+},
+{
+"name" : "Perreault, Mathieu",
+"position" : "Center",
+"team" : "Was"
+},
+{
+"name" : "Pinizzotto, Steve",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Poti, Tom",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Rechlicz, Joel",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Sabourin, Dany",
+"position" : "Goaltender",
+"team" : "Was"
+},
+{
+"name" : "Schultz, Jeff",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Semin, Alexander",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Sloan, Tyler",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Sturm, Marco",
+"position" : "Left Wing",
+"team" : "Was"
+},
+{
+"name" : "Varlamov, Semyon",
+"position" : "Goaltender",
+"team" : "Was"
+},
+{
+"name" : "Wideman, Dennis",
+"position" : "Defense",
+"team" : "Was"
+},
+{
+"name" : "Willsie, Brian",
+"position" : "Right Wing",
+"team" : "Was"
+},
+{
+"name" : "Ahnelov, Jonas",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Aucoin, Adrian",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Beaudoin, Matt",
+"position" : "Right Wing",
+"team" : "Pho"
+},
+{
+"name" : "Belanger, Eric",
+"position" : "Center",
+"team" : "Pho"
+},
+{
+"name" : "Bissonnette, Paul",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Boedker, Mikkel",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Brodeur, Mathieu",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Bryzgalov, Ilya",
+"position" : "Goaltender",
+"team" : "Pho"
+},
+{
+"name" : "Byers, Dane",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Climie, Matt",
+"position" : "Goaltender",
+"team" : "Pho"
+},
+{
+"name" : "Doan, Shane",
+"position" : "Right Wing",
+"team" : "Pho"
+},
+{
+"name" : "Ebbett, Andrew",
+"position" : "Center",
+"team" : "Pho"
+},
+{
+"name" : "Ekman-Larsson, Oliver",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Fenton, Thomas",
+"position" : "Goaltender",
+"team" : "Pho"
+},
+{
+"name" : "Fiddler, Vernon",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Goncharov, Maxim",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Gormley, Brandon",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Hanzal, Martin",
+"position" : "Center",
+"team" : "Pho"
+},
+{
+"name" : "Hollweg, Ryan",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Jovanovski, Ed",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Kearns, Bracken",
+"position" : "Center",
+"team" : "Pho"
+},
+{
+"name" : "Klesla, Rostislav",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Korpikoski, Lauri",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "LaBarbera, Jason",
+"position" : "Goaltender",
+"team" : "Pho"
+},
+{
+"name" : "Lunden, Josh",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "MacLean, Brett",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "May, Jeff",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Morris, Derek",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Picard, Alexandre",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Prucha, Petr",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Pyatt, Taylor",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Riley, Blair",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Ross, Nick",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Rozsival, Michal",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Sauer, Kurt",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Schlemko, David",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Stafford, Garrett",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Stempniak, Lee",
+"position" : "Right Wing",
+"team" : "Pho"
+},
+{
+"name" : "Stone, Michael",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Summers, Chris",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Tikhonov, Viktor",
+"position" : "Right Wing",
+"team" : "Pho"
+},
+{
+"name" : "Turris, Kyle",
+"position" : "Center",
+"team" : "Pho"
+},
+{
+"name" : "Vrbata, Radim",
+"position" : "Right Wing",
+"team" : "Pho"
+},
+{
+"name" : "Whitney, Ray",
+"position" : "Left Wing",
+"team" : "Pho"
+},
+{
+"name" : "Yandle, Keith",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Yonkman, Nolan",
+"position" : "Defense",
+"team" : "Pho"
+},
+{
+"name" : "Beauchemin, Francois",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Beleskey, Matt",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "Blake, Jason",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "Bonino, Nick",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Brookbank, Sheldon",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Chipchura, Kyle",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Clark, Mat",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Ellis, Dan",
+"position" : "Goaltender",
+"team" : "Anh"
+},
+{
+"name" : "Emery, Ray",
+"position" : "Goaltender",
+"team" : "Anh"
+},
+{
+"name" : "Etem, Emerson",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "Fowler, Cam",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Getzlaf, Ryan",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Green, Josh",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Guenin, Nate",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Hiller, Jonas",
+"position" : "Goaltender",
+"team" : "Anh"
+},
+{
+"name" : "Holland, Peter",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Jaffray, Jason",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "Kennedy, Matt",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "Koivu, Saku",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Levasseur, Jean-Philippe",
+"position" : "Goaltender",
+"team" : "Anh"
+},
+{
+"name" : "Lilja, Andreas",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Lydman, Toni",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Macenauer, Maxime",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Marchant, Todd",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Maroon, Pat",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "McGrattan, Brian",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "McMillan, Brandon",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Mitera, Mark",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Newton, Jake",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Palmieri, Kyle",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Parros, George",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "Perrault, Joel",
+"position" : "Center",
+"team" : "Anh"
+},
+{
+"name" : "Perry, Corey",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "Pielmeier, Timo",
+"position" : "Goaltender",
+"team" : "Anh"
+},
+{
+"name" : "Ruutu, Jarkko",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "Ryan, Bobby",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "Sbisa, Luca",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Selanne, Teemu",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "Sexton, Dan",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "Smith-Pelly, Devante",
+"position" : "Right Wing",
+"team" : "Anh"
+},
+{
+"name" : "Sutton, Andy",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Valentine, Scott",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Veilleux, Stephane",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "Visnovsky, Lubomir",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Williams, Nigel",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Winchester, Brad",
+"position" : "Left Wing",
+"team" : "Anh"
+},
+{
+"name" : "Zimmerman, Sean",
+"position" : "Defense",
+"team" : "Anh"
+},
+{
+"name" : "Arnason, Tyler",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Bergfors, Niclas",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Bernier, Steve",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Bitz, Byron",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Booth, David",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Calla, Brady",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Callahan, Joe",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Carter, Ryan",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Caruso, Michael",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Cheverie, Marc",
+"position" : "Goaltender",
+"team" : "Fla"
+},
+{
+"name" : "Clemmensen, Scott",
+"position" : "Goaltender",
+"team" : "Fla"
+},
+{
+"name" : "Comrie, Adam",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Cullen, Mark",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Dadonov, Evgeny",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "DeLory, James",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Duco, Mike",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Ellerby, Keaton",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Fast, T.J.",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Foster, Adrian",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Garrison, Jason",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Grant, Triston",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Gudbranson, Erik",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Hordichuk, Darcy",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Howden, Quinton",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Hudson, Carl",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Jenks, A.J.",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Jessiman, Hugh",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Kennedy, Tim",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Kulikov, Dmitry",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Markstrom, Jacob",
+"position" : "Goaltender",
+"team" : "Fla"
+},
+{
+"name" : "Matthias, Shawn",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "McArdle, Kenndal",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Oberg, Evan",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Olesz, Rostislav",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Plante, Tyler",
+"position" : "Goaltender",
+"team" : "Fla"
+},
+{
+"name" : "Reasoner, Marty",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Reinprecht, Steven",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Repik, Michal",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Rissmiller, Patrick",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Robak, Colby",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Samsonov, Sergei",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Santorelli, Mike",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Selleck, Eric",
+"position" : "Left Wing",
+"team" : "Fla"
+},
+{
+"name" : "Skille, Jack",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Sulzer, Alexander",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Thomas, Bill",
+"position" : "Right Wing",
+"team" : "Fla"
+},
+{
+"name" : "Timmins, Scott",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Vokoun, Tomas",
+"position" : "Goaltender",
+"team" : "Fla"
+},
+{
+"name" : "Weaver, Mike",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Weiss, Stephen",
+"position" : "Center",
+"team" : "Fla"
+},
+{
+"name" : "Wilson, Clay",
+"position" : "Defense",
+"team" : "Fla"
+},
+{
+"name" : "Beck, Taylor",
+"position" : "Left Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Begin, Steve",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Belak, Wade",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Blum, Jonathon",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Bouillon, Francis",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Bourque, Gabriel",
+"position" : "Left Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Dekanich, Mark",
+"position" : "Goaltender",
+"team" : "Nsh"
+},
+{
+"name" : "Dumont, J.P.",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Ellis, Ryan",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Erat, Martin",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Fisher, Mike",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Flynn, Ryan",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Franson, Cody",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Geoffrion, Blake",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Goc, Marcel",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Halischuk, Matt",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Hornqvist, Patric",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Johnson, Aaron",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Josi, Roman",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Klasen, Linus",
+"position" : "Left Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Klein, Kevin",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Kostitsyn, Sergei",
+"position" : "Left Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Laakso, Teemu",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Legwand, David",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Lewis, Grant",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Lindback, Anders",
+"position" : "Goaltender",
+"team" : "Nsh"
+},
+{
+"name" : "Lombardi, Matthew",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Lundmark, Jamie",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Mueller, Chris",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "O'Brien, Shane",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "O'Reilly, Cal",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Palin, Brett",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Pickard, Chet",
+"position" : "Goaltender",
+"team" : "Nsh"
+},
+{
+"name" : "Rinne, Pekka",
+"position" : "Goaltender",
+"team" : "Nsh"
+},
+{
+"name" : "Smith, Jeremy",
+"position" : "Goaltender",
+"team" : "Nsh"
+},
+{
+"name" : "Smithson, Jerred",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Spaling, Nick",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Sullivan, Steve",
+"position" : "Left Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Suter, Ryan",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Thuresson, Andreas",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Tootoo, Jordin",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Ward, Joel",
+"position" : "Right Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Weber, Shea",
+"position" : "Defense",
+"team" : "Nsh"
+},
+{
+"name" : "Wilson, Colin",
+"position" : "Center",
+"team" : "Nsh"
+},
+{
+"name" : "Wilson, Kelsey",
+"position" : "Left Wing",
+"team" : "Nsh"
+},
+{
+"name" : "Aliu, Akim",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Antropov, Nik",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Bogosian, Zach",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Boulton, Eric",
+"position" : "Left Wing",
+"team" : "Atl"
+},
+{
+"name" : "Burmistrov, Alex",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Byfuglien, Dustin",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Cormier, Patrice",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Deveaux, Andre",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Dvorak, Radek",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Enstrom, Tobias",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Esposito, Angelo",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Festerling, Brett",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Hainsey, Ron",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Holzapfel, Riley",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Kane, Evander",
+"position" : "Left Wing",
+"team" : "Atl"
+},
+{
+"name" : "Kozek, Andrew",
+"position" : "Left Wing",
+"team" : "Atl"
+},
+{
+"name" : "Kulda, Arturs",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Ladd, Andrew",
+"position" : "Left Wing",
+"team" : "Atl"
+},
+{
+"name" : "Little, Bryan",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Machacek, Spencer",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Mannino, Peter",
+"position" : "Goaltender",
+"team" : "Atl"
+},
+{
+"name" : "Mason, Chris",
+"position" : "Goaltender",
+"team" : "Atl"
+},
+{
+"name" : "Maxwell, Ben",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Meyer, Freddy",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Oduya, Johnny",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Paquette, Danick",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Pavelec, Ondrej",
+"position" : "Goaltender",
+"team" : "Atl"
+},
+{
+"name" : "Pettersson, Fredrik",
+"position" : "Left Wing",
+"team" : "Atl"
+},
+{
+"name" : "Postma, Paul",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Ross, Jared",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Schremp, Rob",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Sifers, Jaime",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Slater, Jim",
+"position" : "Center",
+"team" : "Atl"
+},
+{
+"name" : "Stapleton, Tim",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Stewart, Anthony",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Stuart, Mark",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Thorburn, Chris",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Welch, Noah",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Wheeler, Blake",
+"position" : "Right Wing",
+"team" : "Atl"
+},
+{
+"name" : "Zubarev, Andrey",
+"position" : "Defense",
+"team" : "Atl"
+},
+{
+"name" : "Blunden, Mike",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Boll, Jared",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Brassard, Derick",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Calvert, Matt",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Clark, Chris",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Clitsome, Grant",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Commodore, Mike",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Delisle, Steven",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Dorsett, Derek",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Filatov, Nikita",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Frischmon, Trevor",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Fritsche, Dan",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Gabriel, Oliver",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Garon, Mathieu",
+"position" : "Goaltender",
+"team" : "Cls"
+},
+{
+"name" : "Goloubef, Cody",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Guite, Ben",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Hejda, Jan",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Holden, Nick",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Huselius, Kristian",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Johansen, Ryan",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Kalus, Petr",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Kana, Tomas",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Kubalik, Tomas",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "LeNeveu, David",
+"position" : "Goaltender",
+"team" : "Cls"
+},
+{
+"name" : "Lepisto, Sami",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Machesney, Daren",
+"position" : "Goaltender",
+"team" : "Cls"
+},
+{
+"name" : "MacKenzie, Derek",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Mason, Steve",
+"position" : "Goaltender",
+"team" : "Cls"
+},
+{
+"name" : "Mayorov, Maksim",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Methot, Marc",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Moore, Greg",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Moore, John",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Moreau, Ethan",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Murray, Andrew",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Nash, Rick",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Neuber, Kyle",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Pahlsson, Samuel",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Prout, Dalton",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Ratchuk, Michael",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Regner, Brent",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Rivet, Craig",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Russell, Kris",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Ruth, Theo",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Savard, David",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Sigalet, Jonathan",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Smith, Dalton",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Smith, Trevor",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Straka, Petr",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Stralman, Anton",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Tyutin, Fedor",
+"position" : "Defense",
+"team" : "Cls"
+},
+{
+"name" : "Umberger, R.J.",
+"position" : "Left Wing",
+"team" : "Cls"
+},
+{
+"name" : "Upshall, Scottie",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Vermette, Antoine",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Voracek, Jakub",
+"position" : "Right Wing",
+"team" : "Cls"
+},
+{
+"name" : "Wesslau, Gustaf",
+"position" : "Goaltender",
+"team" : "Cls"
+},
+{
+"name" : "Wilson, Kyle",
+"position" : "Center",
+"team" : "Cls"
+},
+{
+"name" : "Almond, Cody",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Backstrom, Niklas",
+"position" : "Goaltender",
+"team" : "Min"
+},
+{
+"name" : "Bagnall, Drew",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Barker, Cam",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Bouchard, Pierre-Marc",
+"position" : "Left Wing",
+"team" : "Min"
+},
+{
+"name" : "Brodziak, Kyle",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Brunette, Andrew",
+"position" : "Left Wing",
+"team" : "Min"
+},
+{
+"name" : "Bulmer, Brett",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Burns, Brent",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Caron, Josh",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Clutterbuck, Cal",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Cullen, Matt",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Cuma, Tyler",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "DiSalvatore, Jon",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Earl, Robbie",
+"position" : "Left Wing",
+"team" : "Min"
+},
+{
+"name" : "Endras, Dennis",
+"position" : "Goaltender",
+"team" : "Min"
+},
+{
+"name" : "Falk, Justin",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Fraser, Jamie",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Gillies, Colton",
+"position" : "Left Wing",
+"team" : "Min"
+},
+{
+"name" : "Hackett, Matt",
+"position" : "Goaltender",
+"team" : "Min"
+},
+{
+"name" : "Harding, Josh",
+"position" : "Goaltender",
+"team" : "Min"
+},
+{
+"name" : "Havlat, Martin",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Kassian, Matt",
+"position" : "Left Wing",
+"team" : "Min"
+},
+{
+"name" : "Kobasew, Chuck",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Koivu, Mikko",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Latendresse, Guillaume",
+"position" : "Left Wing",
+"team" : "Min"
+},
+{
+"name" : "Madden, John",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "McMillan, Carson",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Miettinen, Antti",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Noreau, Maxim",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Nystrom, Eric",
+"position" : "Left Wing",
+"team" : "Min"
+},
+{
+"name" : "O'Sullivan, Patrick",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Ortmeyer, Jed",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Palmer, Jarod",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Penner, Jeff",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Peters, Warren",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Prosser, Nate",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Rau, Chad",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Scandella, Marco",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Schultz, Nick",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Sheppard, James",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Spurgeon, Jared",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Staubitz, Brad",
+"position" : "Right Wing",
+"team" : "Min"
+},
+{
+"name" : "Stoner, Clayton",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Theodore, Jose",
+"position" : "Goaltender",
+"team" : "Min"
+},
+{
+"name" : "Wellman, Casey",
+"position" : "Center",
+"team" : "Min"
+},
+{
+"name" : "Zanon, Greg",
+"position" : "Defense",
+"team" : "Min"
+},
+{
+"name" : "Zidlicky, Marek",
+"position" : "Defense",
+"team" : "Min"
+}
+]

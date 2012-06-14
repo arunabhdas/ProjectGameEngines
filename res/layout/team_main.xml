@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author : Arunabh Das -->
+<RelativeLayout android:id="@+id/widget20"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+	<RelativeLayout android:id="@+id/widget21"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget20">
+		<TextView android:id="@+id/section_header_text"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#ffffff" android:textSize="24dip"
+			android:textStyle="normal" android:text="" android:layout_marginTop="37dip"
+			android:layout_centerHorizontal="true"></TextView>
+
+	</RelativeLayout>
+
+	<RelativeLayout android:id="@+id/widget22"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:background="@drawable/calendar_blue_subheader_bg"
+		android:layout_below="@id/widget21">
+		<RelativeLayout android:id="@+id/widget23"
+			android:orientation="horizontal" android:layout_height="wrap_content"
+			android:layout_width="fill_parent" android:background="@drawable/calendar_blue_subheader_bg"
+			android:layout_alignParentLeft="true">
+			<LinearLayout android:id="@+id/LinearLayout02"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:orientation="horizontal" android:gravity="left">
+				<RelativeLayout android:id="@+id/LinearLayout04"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:orientation="vertical" 
+					android:layout_gravity="center_vertical|left" 
+					android:layout_marginLeft="10dip"
+					>
+					<ImageView android:id="@+id/teamlogo"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:background="@drawable/aaa"
+						></ImageView>
+
+				</RelativeLayout>
+
+				<LinearLayout android:id="@+id/LinearLayout04"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:orientation="vertical" 
+					android:layout_marginLeft="20dp"
+					>
+					
+					
+					<TextView android:id="@+id/rank_division"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="" android:textColor="#ffffff" android:textSize="12sp"
+						android:layout_marginTop="2px" android:layout_gravity="top|left"></TextView>
+					<TextView android:id="@+id/rank_conference"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="" android:textColor="#ffffff" android:textSize="12sp"
+						android:layout_marginTop="2px" android:layout_gravity="top|left"></TextView>
+					<TextView android:id="@+id/played" android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text=""
+						android:textColor="#ffffff" android:textSize="12sp"
+						android:layout_marginTop="2px" android:layout_gravity="top|left"></TextView>
+					<TextView android:id="@+id/nextgame" android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text=""
+						android:textColor="#ffffff" android:textSize="12sp"
+						android:textStyle="normal" android:layout_marginTop="2px"
+						android:layout_gravity="top|left"></TextView>
+				</LinearLayout>
+			</LinearLayout>
+		</RelativeLayout>
+	</RelativeLayout>
+
+
+	<RelativeLayout android:id="@+id/widget25"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:orientation="vertical" android:layout_below="@id/widget22">
+		<RelativeLayout android:id="@+id/widget26"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:orientation="vertical" android:layout_below="@id/widget22">
+
+
+
+			<TextView android:id="@+id/newlisttitle" android:textSize="22dp"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:textStyle="bold" />
+
+		</RelativeLayout><!-- <RelativeLayout android:id="@+id/widget27" android:layout_width="fill_parent" 
+			android:layout_height="wrap_content" android:orientation="vertical" android:layout_below="@id/widget26"> 
+			<TextView android:id="@+id/newlistdetail" android:textSize="22sp" android:layout_width="fill_parent" 
+			android:layout_height="wrap_content" android:textStyle="normal" android:text=" 
+			" /> </RelativeLayout> -->
+	</RelativeLayout>
+
+	<RelativeLayout android:id="@+id/widget28"
+		android:layout_below="@id/widget25" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:orientation="vertical"
+		android:paddingBottom="100dip"
+		>
+		<ListView android:id="@android:id/list" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" />
+		<TextView android:id="@android:id/empty"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:text="" android:gravity="center_vertical"
+			android:layout_marginLeft="15dip" android:textAppearance="?android:attr/textAppearanceLarge"
+			android:singleLine="false" android:paddingBottom="2dip" />
+		<TextView android:id="@+id/newlistdetail" android:textSize="22sp"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:textStyle="normal" android:text=" " />
+	</RelativeLayout>
+
+	<include android:id="@+id/breakingnewsfooter" layout="@layout/footer" />
+</RelativeLayout>

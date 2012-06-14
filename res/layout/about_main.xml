@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<!--
+		Author : Arunabh Das
+	-->
+<RelativeLayout android:id="@+id/widget20"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+
+
+
+	<RelativeLayout android:id="@+id/widget21"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget20">
+
+
+
+
+		<TextView android:id="@+id/section_header_text"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#ffffff" android:textSize="24dip"
+			android:textStyle="normal" android:text="" android:layout_marginTop="37dip"
+			android:layout_centerHorizontal="true"></TextView>
+
+
+
+
+	</RelativeLayout>
+
+
+	<RelativeLayout android:id="@+id/widget23"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget21">
+
+
+
+		<TextView android:id="@+id/section_subhead"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#000" android:textSize="16dip" android:textStyle="bold"
+			android:text="" 
+			
+			android:layout_centerInParent="true"
+			android:layout_centerHorizontal="true"></TextView>
+
+	</RelativeLayout>
+	<RelativeLayout android:id="@+id/widget24"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget23"><!--
+
+
+
+		<ImageButton android:id="@+id/videobutton"
+			android:background="#000" android:src="@drawable/hnic_short_thumbnail"
+			android:scaleType="fitXY" android:layout_centerInParent="true"
+			android:layout_width="wrap_content" android:layout_height="wrap_content" />
+			
+			--><ImageButton android:id="@+id/about_play_button"
+			android:background="#000" android:src="@drawable/about_play_button"
+			android:scaleType="fitXY" android:layout_centerInParent="true"
+			android:layout_width="wrap_content" android:layout_height="wrap_content" />
+
+
+	</RelativeLayout>
+	
+	<RelativeLayout android:id="@+id/widget25"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget24">
+
+
+
+		<TextView android:id="@+id/text_below_video"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#000" android:textSize="16dip" android:textStyle="bold"
+			android:text="Stanley Cup Playoffs 2011" 
+			
+			android:layout_centerInParent="true"
+			android:layout_centerHorizontal="true"></TextView>
+
+	</RelativeLayout>
+	
+		<RelativeLayout android:id="@+id/widget26"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget25">
+
+
+
+		<TextView android:id="@+id/app_version"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#000" android:textSize="16dip" android:textStyle="normal"
+			android:text="@string/app_version"
+			
+			android:layout_centerInParent="true"
+			android:layout_centerHorizontal="true"></TextView>
+
+	</RelativeLayout>
+	
+	<RelativeLayout android:id="@+id/widget27"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget26">
+
+
+
+		<TextView android:id="@+id/app_copyright"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#000" android:textSize="16dip" android:textStyle="normal"
+			android:text="@string/app_copyright"
+			
+			android:layout_centerInParent="true"
+			android:layout_centerHorizontal="true"></TextView>
+
+	</RelativeLayout>
+	
+		<RelativeLayout android:id="@+id/widget28"
+		android:orientation="horizontal" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:layout_below="@id/widget27">
+
+
+
+		<TextView android:id="@+id/app_learnmore"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#000" android:textSize="16dip" android:textStyle="normal"
+			android:text="@string/app_learnmore"
+			
+			android:layout_centerInParent="true"
+			android:layout_centerHorizontal="true"></TextView>
+
+	</RelativeLayout>
+
+
+	<include android:id="@+id/aboutfooter" layout="@layout/footer" />
+
+
+
+</RelativeLayout>

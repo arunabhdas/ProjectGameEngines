@@ -1,0 +1,80 @@
+{
+"goals":
+[
+"Stamkos, Steven",
+"Kesler, Ryan",
+"Sharp, Patrick",
+"Crosby, Sidney",
+"Sedin, Daniel",
+"Perry, Corey",
+"Ryan, Bobby",
+"Iginla, Jarome",
+"Nash, Rick",
+"Staal, Eric"
+],
+"points":
+[
+"Sedin, Daniel",
+"Stamkos, Steven",
+"St. Louis, Martin",
+"Sedin, Henrik",
+"Zetterberg, Henrik",
+"Perry, Corey",
+"Ovechkin, Alex",
+"Crosby, Sidney",
+"Iginla, Jarome",
+"Toews, Jonathan"
+],
+"goalsforagainst":
+[
+"McQuaid, Adam",
+"Bieksa, Kevin",
+"Campbell, Brian",
+"Lydman, Toni",
+"Carle, Matt",
+"Ference, Andrew",
+"Horton, Nathan",
+"Goligoski, Alex",
+"Lucic, Milan",
+"Marchand, Brad"
+],
+"goaliewins":
+[
+"Howard, Jimmy",
+"Kiprusoff, Miikka",
+"Price, Carey",
+"Luongo, Roberto",
+"Thomas, Tim",
+"Fleury, Marc-Andre",
+"Quick, Jonathan",
+"Ward, Cam",
+"Bryzgalov, Ilya",
+"Miller, Ryan"
+],
+"goalsagainstaverage":
+[
+"Thomas, Tim",
+"Rinne, Pekka",
+"Crawford, Corey",
+"Quick, Jonathan",
+"Luongo, Roberto",
+"Varlamov, Semyon",
+"Reimer, James",
+"Lundqvist, Henrik",
+"Boucher, Brian",
+"Hedberg, Johan"
+],
+"savepercentage":
+[
+"Thomas, Tim",
+"Rinne, Pekka",
+"Reimer, James",
+"Hiller, Jonas",
+"Backstrom, Niklas",
+"Luongo, Roberto",
+"Varlamov, Semyon",
+"Price, Carey",
+"Theodore, Jose",
+"Lundqvist, Henrik"
+]
+}

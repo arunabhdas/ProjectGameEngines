@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/widget20"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+>
+
+
+
+	<RelativeLayout android:id="@+id/widget21"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget20">
+
+
+
+
+		<TextView android:id="@+id/section_header_text"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#ffffff" android:textSize="24dip"
+			android:textStyle="normal" android:text="" android:layout_marginTop="37dip"
+			android:layout_centerHorizontal="true"></TextView>
+
+
+
+
+	</RelativeLayout>
+	<LinearLayout
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:layout_below="@id/widget21">
+
+		<ListView android:id="@id/android:list" android:layout_width="fill_parent"
+			android:layout_height="fill_parent" />
+
+		<include layout="@layout/list_empty" />
+
+	</LinearLayout>
+	<include android:id="@+id/morefooter" layout="@layout/footer" />
+
+</RelativeLayout>

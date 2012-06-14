@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author : Arunabh Das -->
+
+<RelativeLayout android:id="@+id/widget31"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="#ffffff">
+
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+  
+</LinearLayout>
+	<LinearLayout android:id="@+id/widget32"
+		android:orientation="horizontal" android:background="@drawable/header"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_below="@id/widget31">
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_gravity="top|left"
+			android:layout_marginLeft="100dip" android:textColor="#ffffff"
+			android:text="Video" android:textSize="24dip" android:textStyle="bold"
+			android:layout_marginTop="37dip"></TextView>
+	</LinearLayout>
+
+
+
+	<LinearLayout android:id="@+id/widget35"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:orientation="vertical" android:layout_alignParentBottom="true"
+
+		android:layout_centerHorizontal="true">
+			<!--  start of video area -->
+		
+	<LinearLayout android:layout_width="fill_parent"
+		android:clickable="true" android:orientation="vertical"
+		android:layout_height="70px" android:id="@+id/ll1" android:background="@drawable/video_bg_148px">
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/TextView02" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:textSize="20px"
+				android:textStyle="bold" android:textColor="#000000" android:text="Viewable Only in Canada"></TextView>
+		</LinearLayout>
+		<LinearLayout android:layout_height="wrap_content"
+			android:orientation="horizontal" android:layout_width="fill_parent">
+
+			<TextView android:id="@+id/TextView01"
+				android:layout_height="wrap_content"
+				android:text="These Items can only be viewed by users in Canada"
+				android:textColor="#0000ff" android:layout_width="240px"
+				android:layout_marginTop="8px"></TextView>
+
+
+			<ImageView android:id="@+id/ImageView01"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:background="@drawable/video_bought_arrow"
+				android:layout_marginTop="8px"></ImageView>
+		</LinearLayout>
+
+	</LinearLayout>
+
+	<LinearLayout android:layout_width="fill_parent"
+		android:clickable="true" android:orientation="vertical"
+		android:layout_height="70px" android:background="@drawable/video_bg_148px">
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:textSize="20px"
+				android:textStyle="bold" android:textColor="#000000" android:id="@+id/TextView03"
+				android:text="Viewable Worldwide"></TextView>
+		</LinearLayout>
+		<LinearLayout android:layout_height="wrap_content"
+			android:orientation="horizontal" android:layout_width="fill_parent">
+
+			<TextView android:layout_height="wrap_content"
+				android:textColor="#0000ff" android:id="@+id/TextView04"
+				android:text="These videos can be viewed by users in Canada and around the world"
+				android:layout_width="240px" android:layout_marginTop="8px"></TextView>
+
+
+			<ImageView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:background="@drawable/video_bought_arrow"
+				android:id="@+id/ImageView02" android:layout_marginTop="8px"></ImageView>
+		</LinearLayout>
+
+	</LinearLayout>
+	<!--  end of video area -->	
+		
+	
+
+			<LinearLayout android:id="@+id/widget32"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:orientation="horizontal" android:layout_alignParentBottom="true"
+			android:background="@drawable/nav_header_bg"
+			android:layout_centerHorizontal="true" android:layout_gravity="center_horizontal"
+		
+			>
+
+			<Button android:id="@+id/home_button" android:layout_height="wrap_content"
+				android:layout_width="wrap_content" android:background="@drawable/ico_home_xml"
+				android:layout_marginLeft="10dip" android:layout_marginTop="5dip"
+				android:layout_marginRight="10dip" android:layout_marginBottom="5dip" 
+				
+				android:layout_weight="1"
+				/>
+
+
+			<Button android:id="@+id/news_button" android:layout_height="wrap_content"
+				android:background="@drawable/ico_news_xml" android:layout_width="wrap_content"
+				android:layout_marginLeft="10dip" android:layout_marginTop="5dip"
+				android:layout_marginRight="10dip" android:layout_marginBottom="5dip"
+				
+				android:layout_weight="1"
+				 />
+
+
+			<Button android:id="@+id/schedule_button"
+				android:layout_height="wrap_content" android:background="@drawable/ico_schedule_xml"
+				android:layout_width="wrap_content" android:layout_marginLeft="10dip"
+				android:layout_marginTop="5dip" android:layout_marginRight="10dip"
+				android:layout_marginBottom="5dip" 
+				
+				android:layout_weight="1"
+				/>
+
+			<Button android:id="@+id/video_button" android:layout_height="wrap_content"
+				android:background="@drawable/ico_video_xml" android:layout_width="wrap_content"
+				android:layout_marginLeft="10dip" android:layout_marginTop="5dip"
+				android:layout_marginRight="10dip" android:layout_marginBottom="5dip" 
+			
+				android:layout_weight="1"
+				/>
+
+			<Button android:id="@+id/more_button" android:layout_height="wrap_content"
+				android:background="@drawable/ico_more_xml" android:layout_width="wrap_content"
+				android:layout_marginLeft="10dip" android:layout_marginTop="5dip"
+				android:layout_marginRight="10dip" android:layout_marginBottom="5dip" 
+				android:layout_weight="1"
+				/>
+				
+		</LinearLayout>
+	</LinearLayout>
+	
+	
+	
+</RelativeLayout>

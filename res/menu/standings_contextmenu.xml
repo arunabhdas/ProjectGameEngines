@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/northeast" android:icon="@drawable/video_bought_arrow"
+		android:title="Northeast" />
+	<item android:id="@+id/atlantic" android:icon="@drawable/video_bought_arrow"
+		android:title="Atlantic" />
+	<item android:id="@+id/southeast" android:icon="@drawable/video_bought_arrow"
+		android:title="Southeast" />
+	<item android:id="@+id/central" android:icon="@drawable/video_bought_arrow"
+		android:title="Central" />
+	<item android:id="@+id/pacific" android:icon="@drawable/video_bought_arrow"
+		android:title="Pacific" />
+	<item android:id="@+id/northwest" android:icon="@drawable/video_bought_arrow"
+		android:title="Northwest" />
+
+</menu>

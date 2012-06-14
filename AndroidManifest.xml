@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      android:versionName="1.0.0" android:versionCode="2" package="com.troubadorian.mobile.android.nhlhockey">
+    <application android:label="@string/app_name" android:icon="@drawable/logo">
+        <activity android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar" 
+                  android:screenOrientation="portrait"
+                  android:launchMode="singleTask"
+                  android:name=".NHLHockey">
+            <intent-filter>
+                <action android:name="com.troubadorian.mobile.android.nhlhockey.NHLHockey" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+                <activity android:name=".NewSplashScreen"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait"
+                  android:noHistory="true"
+                  >
+                  <intent-filter>
+                
+                
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+        </activity>
+        
+        
+        <activity android:name=".Home"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait"
+                  >
+        </activity>
+  		<activity android:name=".News"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".NewsDetails"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".Schedule"
+                  android:label="@string/app_name"
+                 android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+		<activity android:name="VideoNew"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        		<activity android:name=".Highlights"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        		<activity android:name=".Segments"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+                		<activity android:name=".BreakingNews"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        
+        
+        <activity android:name=".GameHighlights"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        
+        
+        <activity android:name=".McDonaldsMorningHighlights"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        
+        
+        
+        <activity android:name=".TonightsGames"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".CoachsCorner"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".CoastToCoast"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".HotStove"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".InsideHockey"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+         <activity android:name=".TopFive"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        
+        <activity android:name=".VideoVideoPlayerPage"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+ 
+        <activity android:name=".More"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".HomePlayerDetail"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+         <activity android:name=".Stats"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".PlayerDatabase"
+        		android:label="@string/app_name"
+        		android:theme="@style/MyTheme"
+        		android:screenOrientation="portrait">
+        		</activity>
+          <activity android:name=".Standings"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+          <activity android:name=".Leaders"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+          <activity android:name=".Players"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+          <activity android:name=".Teams"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".Database"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+           <activity android:name=".TeamFollow"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+           <activity android:name=".Blogs"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".GameResults"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+           <activity android:name=".About"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+           <activity android:name=".ContactUs"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".Contact"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+         <activity android:name=".HNICGalleryThree"
+                  android:label="@string/app_name"
+                   android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+         <activity android:name=".MyHNICDatabasePopulateActivity"
+                  android:label="@string/app_name"
+                   android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name="MyHNICReaderActivity"
+                  android:label="@string/app_name"
+                   android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+         <activity android:name=".MyHNICConferenceListReaderActivity"
+                  android:label="@string/app_name"
+                   android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".MyHNICGameResultsReaderActivity"
+                  android:label="@string/app_name"
+                   android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".MyHNICCompletedGameResultsReaderActivity"
+                  android:label="@string/app_name"
+                   android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+        <activity android:name=".MyHNICCompletedBoxScoreReaderActivity"
+                  android:label="@string/app_name"
+                  android:theme="@style/MyTheme"
+                  android:screenOrientation="portrait">
+        </activity>
+        
+          <activity android:name=".Team"
+        		 android:label="@string/app_name"
+        		 android:theme="@style/MyTheme"
+        		 android:screenOrientation="portrait"
+        
+        ></activity>
+        
+        <activity android:name=".Player"
+        		 android:label="@string/app_name"
+        		 android:theme="@style/MyTheme"
+        		 android:screenOrientation="portrait"
+        
+        ></activity>
+        <activity android:name=".RSSShowDetails"
+        		 android:label="@string/app_name"
+        		 android:theme="@style/MyTheme"
+        		 android:screenOrientation="portrait"
+        
+        ></activity>
+        
+        <activity android:name=".VideoViewPlayer"
+        		 android:label="@string/app_name"
+        		 android:theme="@android:style/Theme.NoTitleBar"
+        
+        android:screenOrientation="landscape"></activity>
+         <activity android:name=".VideoView"
+        		 android:label="@string/app_name"
+        		  android:theme="@android:style/Theme.NoTitleBar"
+  
+        
+        ></activity>
+        
+         <activity android:name="VideoViewActivity"
+        		 android:label="@string/app_name"
+        		 android:theme="@style/MyTheme" android:screenOrientation="unspecified"></activity>
+        		 
+        		 
+        		 
+        
+    
+</application>
+ <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="10"/>
+
+
+<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest> 
